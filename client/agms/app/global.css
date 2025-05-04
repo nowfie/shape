@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .main{
+        @apply w-11/12 mx-auto 
+    }
+    .background{
+        @apply bg-background-light dark:bg-background-dark duration-300 transition-all ease-in-out
+    }
+    .middleground{
+        @apply bg-middleground-light dark:bg-middleground-dark duration-300 transition-all ease-in-out
+    }
+    .foreground{
+        @apply bg-foreground-light dark:bg-foreground-dark duration-300 transition-all ease-in-out
+    }
+    .extraground{
+        @apply bg-extraground-light dark:bg-extraground-dark duration-300 transition-all ease-in-out
+    }
+    .middleshade{
+        @apply bg-middleshade-light dark:bg-middleshade-dark duration-300 transition-all ease-in-out
+    }
+    .extrashade{
+        @apply bg-extrashade-light dark:bg-extrashade-dark duration-300 transition-all ease-in-out
+    }
+    .heading{
+        @apply text-heading-light dark:text-heading-dark duration-300 transition-all ease-in-out 
+    }
+    .heading-invert{
+        @apply text-heading-dark dark:text-heading-light duration-300 transition-all ease-in-out 
+    }
+    .paragraph{
+        @apply text-para-light dark:text-para-dark duration-300 transition-all ease-in-out 
+    }
+}

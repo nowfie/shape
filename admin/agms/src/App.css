@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+@import "tailwindcss";
+
+@theme{
+  --color-primary: #C1E671;
+  --color-secondary: #F9F189;
+  --color-tertiary: #CDE9FE;
+  --color-quaternary:#FFA2A0;
+  --color-quinary:#DFE2E2;
+
+  --color-background-light: #F3F4F6;
+  --color-background-dark: #020202;
+  --color-foreground-light: #EAEAEA;
+  --color-foreground-dark: #EAEAEA;
+  --color-middleground-light: #F9B475;
+  --color-middleground-dark: #F9B475;
+  --color-extraground-light: #ffffff;
+  --color-extraground-dark: #1B1C1C;
+
+  --color-heading-light: #3D3F41;
+  --color-heading-dark: #fff;
+  --color-paragraph: #A3A2A3;
+
+  --font-heading:"Nunito", sans-serif;
+  --font-paragraph:"Nunito", sans-serif;
+  --font-universal:"Nunito", sans-serif;
+}
+
+*{
+  font-family:"Nunito", sans-serif;
+}
+
+@layer components{
+  .main{
+    @apply w-11/12 xl:w-12/12 mx-auto xl:p-4
+  }
+  .title{
+    @apply font-heading capitalize text-4xl font-semibold text-heading-light dark:text-heading-dark duration-300 transition-all
+  }
+  .subTite{
+    @apply font-heading capitalize text-xl font-semibold text-heading-light dark:text-heading-dark duration-300 transition-all
+  }
+  .heading{
+    @apply font-heading capitalize text-base font-bold text-heading-light dark:text-heading-dark duration-300 transition-all
+  }
+  .paragraph{
+    @apply font-paragraph capitalize text-paragraph leading-relaxed duration-300 transition-all
+  }
+  .text{
+    @apply text-heading-light capitalize dark:text-white duration-300 transition-all
+  }
+  .background{
+    @apply bg-background-light dark:bg-background-dark duration-300 transition-all
+  }
+  .foreground{
+    @apply bg-foreground-light dark:bg-foreground-dark duration-300 transition-all
+  }
+  .middleground{
+    @apply bg-middleground-light dark:bg-middleground-dark duration-300 transition-all
+  }
+  .extraground{
+    @apply bg-extraground-light dark:bg-extraground-dark duration-300 transition-all
+  }
+}
+

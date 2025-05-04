@@ -1,0 +1,3011 @@
+current_bmi,activity_level,fitness_goal,age,gender,target_bmi
+16.3,moderate,lean muscle gain,38,male,24.6
+16.5,moderate,lean muscle gain,53,female,19.1
+17.4,light,extreme weight gain,47,female,18.6
+15.0,sedentary,extreme weight gain,39,male,24.9
+16.5,moderate,moderate weight gain,45,female,20.4
+16.2,moderate,extreme weight gain,20,male,21.4
+17.1,light,extreme weight gain,42,female,19.6
+16.9,light,lean muscle gain,19,female,21.0
+15.8,active,lean muscle gain,25,male,22.9
+15.6,light,extreme weight gain,19,female,21.0
+16.8,very active,moderate weight gain,43,female,22.0
+18.2,active,mild weight gain,57,male,24.2
+16.3,very active,moderate weight gain,42,female,20.2
+17.1,very active,lean muscle gain,18,male,20.3
+18.4,active,aggressive weight gain,34,female,23.4
+17.5,very active,moderate weight gain,56,female,23.4
+15.4,active,moderate weight gain,50,female,24.0
+16.3,very active,aggressive weight gain,61,female,22.8
+15.9,moderate,lean muscle gain,64,female,22.1
+17.9,moderate,mild weight gain,32,male,23.1
+15.4,moderate,mild weight gain,49,female,21.3
+18.1,very active,aggressive weight gain,46,female,20.1
+18.2,moderate,extreme weight gain,19,female,22.3
+17.7,active,extreme weight gain,61,female,22.6
+16.4,light,extreme weight gain,42,male,24.2
+18.1,moderate,mild weight gain,30,male,20.2
+16.0,moderate,mild weight gain,54,male,19.6
+15.4,moderate,mild weight gain,29,female,20.7
+17.4,very active,mild weight gain,34,male,23.1
+17.1,very active,mild weight gain,18,male,21.7
+17.3,light,extreme weight gain,28,female,21.9
+15.8,very active,extreme weight gain,51,female,23.2
+16.4,sedentary,mild weight gain,23,female,23.7
+15.1,moderate,extreme weight gain,36,female,22.3
+16.7,active,mild weight gain,50,female,19.9
+16.3,sedentary,aggressive weight gain,45,male,24.5
+15.4,light,aggressive weight gain,24,female,24.4
+15.6,active,extreme weight gain,19,male,24.8
+15.3,very active,aggressive weight gain,26,male,24.2
+16.2,moderate,extreme weight gain,41,female,23.1
+17.7,moderate,mild weight gain,25,female,22.6
+18.1,moderate,mild weight gain,52,male,22.4
+15.0,light,moderate weight gain,52,female,19.5
+18.4,active,mild weight gain,31,male,19.6
+15.6,moderate,mild weight gain,50,female,20.8
+15.3,very active,aggressive weight gain,25,male,20.9
+16.5,sedentary,extreme weight gain,64,female,20.7
+17.9,moderate,extreme weight gain,52,female,20.0
+17.2,active,lean muscle gain,63,male,19.6
+18.0,very active,lean muscle gain,63,male,23.3
+16.9,active,lean muscle gain,38,female,24.8
+17.9,light,mild weight gain,59,male,20.5
+17.9,light,moderate weight gain,44,female,24.5
+18.0,sedentary,mild weight gain,60,female,23.2
+16.2,light,aggressive weight gain,42,female,20.4
+18.1,sedentary,extreme weight gain,62,female,21.8
+17.2,active,aggressive weight gain,40,male,23.0
+16.3,moderate,mild weight gain,39,female,19.1
+17.9,light,aggressive weight gain,54,male,20.1
+17.8,active,lean muscle gain,56,female,20.2
+17.9,moderate,extreme weight gain,33,male,19.7
+18.3,moderate,mild weight gain,36,female,23.1
+17.5,light,lean muscle gain,40,male,20.1
+17.4,light,moderate weight gain,18,male,21.1
+15.9,sedentary,lean muscle gain,18,female,22.0
+16.8,very active,lean muscle gain,20,female,22.7
+16.9,sedentary,lean muscle gain,31,female,19.5
+15.2,active,lean muscle gain,29,female,18.8
+15.3,active,mild weight gain,47,male,21.6
+16.4,very active,extreme weight gain,51,female,22.4
+16.3,light,mild weight gain,22,male,22.5
+15.6,light,mild weight gain,45,female,19.0
+17.2,active,moderate weight gain,52,female,23.6
+15.4,moderate,lean muscle gain,29,male,23.7
+17.8,moderate,extreme weight gain,46,male,22.7
+15.7,very active,aggressive weight gain,52,male,20.9
+15.2,light,moderate weight gain,43,female,20.5
+17.8,active,moderate weight gain,62,male,20.3
+18.0,very active,lean muscle gain,53,female,23.2
+16.4,moderate,mild weight gain,52,female,22.1
+15.4,very active,extreme weight gain,30,male,20.1
+17.6,sedentary,mild weight gain,37,female,19.2
+16.3,moderate,mild weight gain,53,female,20.4
+18.3,sedentary,extreme weight gain,31,male,23.9
+18.2,very active,lean muscle gain,52,female,22.2
+16.1,active,lean muscle gain,40,female,22.8
+17.7,light,moderate weight gain,56,female,19.1
+16.9,very active,aggressive weight gain,28,female,21.3
+18.3,light,extreme weight gain,34,male,22.9
+17.9,light,mild weight gain,44,female,21.2
+15.5,moderate,lean muscle gain,18,female,21.8
+17.8,sedentary,lean muscle gain,21,female,24.6
+16.3,very active,extreme weight gain,56,male,19.0
+15.8,moderate,lean muscle gain,30,female,20.6
+16.6,active,lean muscle gain,58,male,18.9
+17.5,sedentary,extreme weight gain,42,female,22.2
+16.8,light,extreme weight gain,62,female,21.3
+16.9,very active,aggressive weight gain,54,female,20.6
+16.9,light,mild weight gain,31,male,24.7
+16.5,moderate,mild weight gain,28,female,22.5
+18.3,active,extreme weight gain,25,female,18.9
+15.6,light,extreme weight gain,45,female,21.5
+16.2,moderate,mild weight gain,26,male,20.2
+16.4,very active,lean muscle gain,63,male,22.4
+17.8,very active,mild weight gain,19,female,24.6
+18.2,very active,lean muscle gain,50,female,24.0
+17.8,sedentary,aggressive weight gain,38,female,24.8
+16.3,moderate,mild weight gain,30,male,24.7
+16.6,sedentary,lean muscle gain,23,female,21.2
+17.8,moderate,lean muscle gain,40,male,24.9
+17.5,moderate,mild weight gain,38,female,23.3
+15.7,very active,lean muscle gain,21,female,20.1
+18.0,light,extreme weight gain,48,female,23.3
+15.1,moderate,aggressive weight gain,29,male,21.7
+16.9,moderate,mild weight gain,34,female,22.1
+16.6,very active,lean muscle gain,31,female,21.2
+17.7,active,moderate weight gain,55,female,24.3
+17.0,moderate,aggressive weight gain,51,female,21.0
+16.9,active,moderate weight gain,34,male,21.4
+17.7,sedentary,moderate weight gain,34,female,21.4
+15.2,very active,moderate weight gain,30,female,18.8
+17.2,moderate,mild weight gain,40,male,20.0
+17.0,active,extreme weight gain,42,male,21.1
+18.0,light,lean muscle gain,36,male,21.8
+15.6,very active,lean muscle gain,23,male,20.3
+16.8,light,mild weight gain,31,female,20.8
+17.3,sedentary,mild weight gain,39,male,18.8
+16.7,very active,mild weight gain,43,female,19.5
+17.7,very active,extreme weight gain,32,male,23.3
+16.3,light,extreme weight gain,40,female,21.6
+16.6,moderate,aggressive weight gain,24,male,23.3
+18.0,active,lean muscle gain,35,female,21.8
+16.2,sedentary,lean muscle gain,45,female,21.0
+16.9,light,extreme weight gain,42,male,23.9
+16.2,light,aggressive weight gain,58,male,21.5
+16.6,light,mild weight gain,61,male,22.2
+16.3,active,moderate weight gain,51,male,20.7
+16.2,very active,mild weight gain,50,male,24.8
+15.3,active,aggressive weight gain,47,male,19.5
+15.2,moderate,aggressive weight gain,48,female,23.9
+17.4,light,extreme weight gain,45,male,24.9
+17.9,sedentary,aggressive weight gain,19,male,23.7
+16.8,very active,extreme weight gain,22,female,21.6
+18.3,active,mild weight gain,37,male,23.1
+16.8,very active,aggressive weight gain,53,male,23.0
+16.8,light,moderate weight gain,22,male,18.8
+16.9,light,extreme weight gain,18,male,19.8
+17.3,moderate,aggressive weight gain,47,male,23.4
+18.2,active,moderate weight gain,31,male,23.8
+17.5,active,aggressive weight gain,52,male,24.5
+17.5,very active,aggressive weight gain,58,male,22.2
+15.7,very active,lean muscle gain,22,male,19.5
+17.3,active,mild weight gain,62,female,21.8
+16.3,moderate,lean muscle gain,55,male,23.7
+17.5,sedentary,mild weight gain,50,male,21.7
+16.3,moderate,aggressive weight gain,23,female,22.0
+16.1,light,extreme weight gain,32,male,23.2
+17.1,moderate,extreme weight gain,46,female,21.9
+17.6,moderate,mild weight gain,21,female,23.0
+17.4,light,mild weight gain,55,male,21.7
+15.4,active,lean muscle gain,25,male,23.9
+16.7,very active,moderate weight gain,44,male,21.1
+17.0,light,aggressive weight gain,44,male,22.1
+17.8,light,aggressive weight gain,29,female,24.6
+17.0,sedentary,mild weight gain,64,female,21.7
+18.0,active,extreme weight gain,22,female,24.5
+15.1,sedentary,extreme weight gain,48,female,22.7
+15.2,sedentary,aggressive weight gain,40,male,19.0
+15.4,active,mild weight gain,18,male,24.8
+16.1,very active,mild weight gain,26,female,20.0
+17.7,sedentary,aggressive weight gain,42,female,18.5
+18.1,light,aggressive weight gain,51,male,20.7
+16.5,active,aggressive weight gain,41,male,19.9
+16.7,sedentary,mild weight gain,46,male,21.2
+15.9,light,lean muscle gain,24,male,19.9
+18.3,active,lean muscle gain,57,male,19.5
+16.0,moderate,aggressive weight gain,36,female,20.5
+15.7,very active,lean muscle gain,47,female,19.7
+16.9,moderate,moderate weight gain,19,female,18.9
+16.5,moderate,extreme weight gain,18,female,21.1
+17.9,light,moderate weight gain,36,female,24.6
+16.8,active,moderate weight gain,24,male,23.6
+16.4,moderate,aggressive weight gain,25,female,22.0
+16.2,moderate,mild weight gain,45,male,22.1
+17.5,moderate,extreme weight gain,54,female,23.7
+15.7,light,moderate weight gain,24,male,20.4
+15.7,very active,aggressive weight gain,53,male,18.7
+16.4,very active,extreme weight gain,28,female,24.2
+17.8,active,extreme weight gain,22,male,20.8
+16.4,light,lean muscle gain,61,male,22.0
+18.2,sedentary,moderate weight gain,47,female,23.4
+18.4,sedentary,moderate weight gain,34,female,21.5
+17.5,sedentary,mild weight gain,39,male,23.0
+16.4,very active,lean muscle gain,51,male,19.3
+17.3,very active,moderate weight gain,53,male,23.8
+15.9,sedentary,moderate weight gain,29,male,22.0
+15.4,moderate,mild weight gain,48,female,19.4
+17.5,very active,mild weight gain,24,female,20.1
+18.1,active,moderate weight gain,63,female,21.2
+16.2,sedentary,aggressive weight gain,53,male,24.6
+15.8,moderate,extreme weight gain,56,female,21.0
+16.9,very active,mild weight gain,53,male,21.5
+15.9,moderate,mild weight gain,62,male,22.3
+16.1,very active,mild weight gain,26,female,23.4
+17.5,moderate,moderate weight gain,42,male,21.7
+15.3,active,extreme weight gain,47,female,19.0
+17.0,active,aggressive weight gain,34,female,20.8
+17.3,active,aggressive weight gain,25,male,21.8
+17.7,sedentary,moderate weight gain,42,female,22.7
+15.8,very active,moderate weight gain,64,female,24.8
+17.4,light,lean muscle gain,39,female,24.4
+16.1,sedentary,aggressive weight gain,25,female,19.3
+16.4,active,aggressive weight gain,35,male,23.6
+17.8,moderate,extreme weight gain,62,female,18.7
+18.0,light,extreme weight gain,56,male,21.9
+17.7,sedentary,lean muscle gain,35,male,21.9
+18.0,light,aggressive weight gain,59,female,22.4
+15.1,very active,moderate weight gain,49,female,24.1
+17.7,active,lean muscle gain,46,female,24.9
+16.6,active,mild weight gain,27,female,22.5
+16.4,very active,mild weight gain,47,male,21.2
+15.4,light,extreme weight gain,35,female,20.8
+17.0,very active,mild weight gain,32,male,20.3
+16.3,moderate,moderate weight gain,54,male,19.3
+15.9,moderate,lean muscle gain,51,male,22.3
+17.5,active,lean muscle gain,62,female,18.9
+15.8,light,mild weight gain,20,female,19.6
+16.2,sedentary,mild weight gain,52,female,18.9
+18.4,light,aggressive weight gain,35,female,19.6
+18.4,moderate,lean muscle gain,64,male,24.2
+17.0,light,aggressive weight gain,58,female,22.2
+15.9,sedentary,aggressive weight gain,42,female,19.3
+17.9,sedentary,lean muscle gain,28,male,23.7
+16.0,moderate,lean muscle gain,43,female,20.1
+15.3,very active,extreme weight gain,22,male,19.9
+17.9,very active,aggressive weight gain,20,female,21.7
+17.3,very active,lean muscle gain,50,female,22.0
+16.8,active,mild weight gain,58,male,24.1
+17.8,light,extreme weight gain,44,female,23.0
+15.6,very active,moderate weight gain,48,male,24.1
+15.0,very active,moderate weight gain,53,female,23.7
+17.8,light,lean muscle gain,63,male,21.7
+18.3,light,extreme weight gain,41,male,22.5
+17.7,light,mild weight gain,49,female,19.2
+16.2,very active,lean muscle gain,39,female,22.5
+15.6,active,aggressive weight gain,34,female,23.4
+15.2,sedentary,moderate weight gain,35,female,22.2
+18.4,active,extreme weight gain,52,female,22.8
+17.6,moderate,mild weight gain,23,male,18.7
+16.7,light,moderate weight gain,51,female,23.4
+16.6,moderate,lean muscle gain,58,male,24.5
+16.8,moderate,extreme weight gain,49,female,23.8
+17.6,moderate,aggressive weight gain,20,male,20.0
+18.3,very active,lean muscle gain,64,female,18.7
+17.9,moderate,mild weight gain,22,male,24.7
+16.1,light,lean muscle gain,52,female,20.6
+18.0,light,extreme weight gain,33,male,23.1
+18.3,sedentary,lean muscle gain,25,male,19.7
+16.5,moderate,lean muscle gain,61,male,21.9
+18.1,active,mild weight gain,47,female,24.7
+17.0,active,extreme weight gain,26,female,22.4
+15.8,very active,lean muscle gain,19,female,19.5
+16.5,sedentary,lean muscle gain,35,female,24.8
+16.3,moderate,lean muscle gain,42,male,21.6
+18.2,moderate,aggressive weight gain,41,male,24.3
+15.8,active,extreme weight gain,50,female,24.8
+17.6,sedentary,moderate weight gain,50,male,24.5
+18.0,very active,extreme weight gain,43,female,19.0
+16.1,light,moderate weight gain,32,female,24.8
+15.1,moderate,lean muscle gain,20,male,22.8
+15.1,sedentary,moderate weight gain,29,female,24.5
+18.2,active,aggressive weight gain,24,male,22.5
+18.0,light,moderate weight gain,20,male,22.0
+16.8,moderate,moderate weight gain,29,male,23.2
+17.2,moderate,moderate weight gain,36,male,21.6
+16.6,very active,lean muscle gain,49,male,23.3
+15.5,moderate,lean muscle gain,49,female,18.6
+18.3,light,aggressive weight gain,52,male,22.7
+15.2,sedentary,extreme weight gain,47,male,18.7
+17.5,active,lean muscle gain,21,female,23.3
+16.3,light,mild weight gain,49,male,24.8
+16.5,active,moderate weight gain,32,female,23.1
+17.7,moderate,aggressive weight gain,29,male,22.7
+17.1,sedentary,aggressive weight gain,43,female,22.5
+16.4,light,extreme weight gain,31,female,22.4
+16.7,very active,mild weight gain,64,female,21.1
+16.8,light,mild weight gain,42,male,20.8
+16.4,very active,mild weight gain,57,female,24.0
+15.4,moderate,moderate weight gain,20,female,24.7
+15.6,light,extreme weight gain,47,male,21.8
+16.5,moderate,extreme weight gain,18,male,20.1
+15.6,sedentary,aggressive weight gain,54,male,19.6
+17.3,sedentary,extreme weight gain,45,male,21.5
+18.0,very active,extreme weight gain,31,female,19.8
+15.4,light,lean muscle gain,18,male,20.0
+15.8,moderate,lean muscle gain,50,male,19.7
+17.0,active,lean muscle gain,41,male,22.9
+15.0,light,lean muscle gain,56,male,24.6
+15.9,active,extreme weight gain,40,female,21.8
+15.5,light,moderate weight gain,25,female,19.4
+15.6,very active,lean muscle gain,64,female,23.2
+15.9,light,aggressive weight gain,27,female,22.7
+16.7,sedentary,extreme weight gain,44,female,22.5
+17.7,sedentary,aggressive weight gain,48,female,24.4
+17.8,sedentary,moderate weight gain,45,female,22.8
+18.4,sedentary,mild weight gain,58,male,18.8
+18.0,very active,mild weight gain,28,female,23.5
+17.2,active,aggressive weight gain,23,female,23.4
+17.6,moderate,lean muscle gain,28,male,23.6
+15.4,sedentary,lean muscle gain,32,male,22.0
+16.2,very active,aggressive weight gain,46,male,21.0
+17.0,moderate,extreme weight gain,55,female,22.0
+17.0,light,moderate weight gain,63,male,19.6
+16.3,light,extreme weight gain,46,female,24.0
+15.4,very active,extreme weight gain,53,male,19.5
+16.3,light,extreme weight gain,60,male,22.0
+17.8,very active,extreme weight gain,32,male,21.3
+17.2,active,lean muscle gain,30,female,20.9
+15.7,active,lean muscle gain,63,male,19.6
+18.2,light,extreme weight gain,47,female,21.9
+16.4,light,mild weight gain,47,male,24.8
+15.4,very active,mild weight gain,59,male,24.0
+15.9,active,mild weight gain,61,female,24.7
+16.8,very active,lean muscle gain,39,female,19.2
+15.8,light,moderate weight gain,59,female,19.9
+17.6,moderate,lean muscle gain,21,female,22.1
+17.5,light,mild weight gain,35,male,23.9
+17.1,light,lean muscle gain,64,male,21.4
+17.5,very active,mild weight gain,39,female,24.0
+16.1,moderate,moderate weight gain,26,female,20.0
+17.1,sedentary,moderate weight gain,52,male,18.9
+17.4,very active,mild weight gain,28,male,21.1
+16.2,active,moderate weight gain,55,female,23.7
+18.1,active,lean muscle gain,50,female,23.4
+15.7,moderate,mild weight gain,56,female,20.6
+16.5,active,lean muscle gain,61,male,23.8
+17.2,light,aggressive weight gain,61,male,20.2
+16.6,light,extreme weight gain,19,female,19.7
+16.9,active,extreme weight gain,53,male,23.2
+15.6,sedentary,moderate weight gain,47,male,22.9
+17.8,active,extreme weight gain,20,female,18.5
+16.3,moderate,lean muscle gain,37,female,19.3
+17.6,very active,extreme weight gain,23,female,20.1
+15.3,sedentary,lean muscle gain,33,female,23.3
+17.7,active,mild weight gain,40,female,23.0
+16.2,light,aggressive weight gain,26,male,20.9
+16.0,light,extreme weight gain,35,male,21.0
+15.5,active,lean muscle gain,59,female,23.5
+18.2,light,lean muscle gain,52,female,19.2
+18.0,moderate,extreme weight gain,31,male,24.1
+16.1,moderate,moderate weight gain,52,female,18.6
+18.3,light,mild weight gain,19,male,22.2
+16.6,sedentary,lean muscle gain,20,male,20.5
+16.4,very active,moderate weight gain,25,male,19.4
+15.1,active,lean muscle gain,29,female,19.4
+15.4,active,moderate weight gain,46,female,22.3
+17.9,moderate,moderate weight gain,40,male,18.5
+16.3,light,moderate weight gain,42,female,22.1
+16.6,sedentary,aggressive weight gain,26,male,23.3
+15.3,moderate,extreme weight gain,50,female,23.5
+17.2,very active,extreme weight gain,46,female,20.0
+17.2,light,lean muscle gain,52,male,23.9
+16.8,very active,lean muscle gain,39,male,21.6
+15.0,moderate,lean muscle gain,55,male,21.2
+17.0,very active,mild weight gain,30,male,22.9
+17.8,very active,moderate weight gain,54,male,22.5
+15.1,sedentary,extreme weight gain,28,male,20.9
+16.7,very active,moderate weight gain,21,female,20.2
+16.1,moderate,mild weight gain,46,female,23.2
+17.9,light,lean muscle gain,58,female,21.0
+17.7,sedentary,moderate weight gain,46,male,20.5
+17.9,active,lean muscle gain,45,male,18.7
+16.7,sedentary,mild weight gain,40,female,21.0
+18.0,active,mild weight gain,40,male,19.2
+15.2,moderate,mild weight gain,62,male,18.7
+15.2,very active,extreme weight gain,38,female,18.6
+16.2,moderate,extreme weight gain,32,male,20.4
+17.2,moderate,moderate weight gain,22,male,19.7
+17.2,light,extreme weight gain,34,male,23.4
+17.7,sedentary,moderate weight gain,32,female,20.0
+15.0,active,mild weight gain,58,male,20.1
+16.8,light,moderate weight gain,38,female,18.8
+16.0,very active,lean muscle gain,49,male,24.8
+16.8,light,aggressive weight gain,27,male,22.4
+15.4,sedentary,mild weight gain,57,male,22.3
+16.9,light,extreme weight gain,47,female,21.0
+15.4,sedentary,lean muscle gain,52,female,19.8
+17.8,sedentary,extreme weight gain,58,male,24.0
+15.9,very active,extreme weight gain,49,male,23.3
+16.1,sedentary,extreme weight gain,46,male,23.3
+15.6,active,aggressive weight gain,48,male,19.3
+16.7,very active,aggressive weight gain,54,male,23.9
+17.5,moderate,lean muscle gain,47,male,22.4
+17.0,very active,moderate weight gain,33,female,24.1
+15.8,sedentary,extreme weight gain,57,male,23.1
+16.4,moderate,mild weight gain,27,male,23.6
+17.5,moderate,moderate weight gain,58,female,22.4
+17.7,light,moderate weight gain,29,male,22.0
+15.0,very active,mild weight gain,37,male,23.3
+17.6,moderate,lean muscle gain,21,male,23.9
+16.5,moderate,moderate weight gain,54,female,23.1
+16.4,very active,moderate weight gain,55,female,23.0
+16.2,active,mild weight gain,24,female,23.6
+16.7,very active,moderate weight gain,21,female,23.1
+17.1,light,aggressive weight gain,48,female,22.8
+17.8,moderate,lean muscle gain,29,female,21.7
+18.3,active,aggressive weight gain,62,female,19.8
+15.4,sedentary,moderate weight gain,45,male,23.2
+17.6,very active,mild weight gain,34,female,23.2
+17.2,moderate,extreme weight gain,28,male,23.5
+16.9,sedentary,extreme weight gain,27,female,22.3
+15.6,very active,mild weight gain,62,male,23.0
+18.2,light,aggressive weight gain,22,male,20.2
+16.6,very active,moderate weight gain,22,female,21.6
+15.5,light,aggressive weight gain,18,female,19.0
+17.5,active,extreme weight gain,48,female,23.4
+17.2,active,moderate weight gain,47,female,24.6
+15.9,active,moderate weight gain,33,female,20.1
+17.6,very active,extreme weight gain,26,male,21.4
+17.9,light,moderate weight gain,60,male,18.8
+16.2,moderate,moderate weight gain,49,female,20.5
+16.9,very active,moderate weight gain,43,female,19.3
+17.7,very active,moderate weight gain,38,female,22.5
+15.5,very active,mild weight gain,36,male,23.1
+18.3,sedentary,lean muscle gain,58,male,22.4
+15.5,light,mild weight gain,24,female,19.9
+16.9,very active,lean muscle gain,51,female,21.8
+17.5,sedentary,mild weight gain,51,female,18.9
+15.8,light,lean muscle gain,22,female,23.9
+17.3,light,moderate weight gain,33,female,19.9
+16.6,active,extreme weight gain,27,male,23.3
+15.2,very active,extreme weight gain,43,male,23.5
+17.6,very active,extreme weight gain,45,female,23.3
+15.8,light,extreme weight gain,43,male,21.4
+15.1,moderate,extreme weight gain,50,female,18.9
+16.7,active,mild weight gain,60,male,19.2
+16.5,active,moderate weight gain,25,female,19.8
+16.2,very active,lean muscle gain,25,male,23.3
+17.2,light,moderate weight gain,37,female,19.8
+17.7,moderate,lean muscle gain,20,male,20.5
+15.9,sedentary,extreme weight gain,18,male,24.8
+15.6,active,aggressive weight gain,54,female,24.2
+17.7,moderate,mild weight gain,29,male,24.7
+16.7,very active,lean muscle gain,38,female,24.7
+17.2,light,aggressive weight gain,44,male,19.6
+16.9,sedentary,extreme weight gain,51,female,21.9
+15.3,very active,extreme weight gain,46,male,23.2
+17.8,moderate,extreme weight gain,61,male,22.0
+16.6,active,mild weight gain,38,female,23.8
+16.7,active,moderate weight gain,38,female,23.8
+17.8,very active,aggressive weight gain,51,male,19.1
+17.5,moderate,mild weight gain,40,female,19.7
+17.0,active,aggressive weight gain,47,male,23.2
+15.9,very active,moderate weight gain,19,male,18.7
+17.3,sedentary,extreme weight gain,18,female,18.9
+15.2,moderate,extreme weight gain,42,male,19.0
+16.0,moderate,mild weight gain,63,female,19.9
+18.2,sedentary,aggressive weight gain,30,male,24.1
+15.9,moderate,aggressive weight gain,40,male,24.3
+15.4,active,lean muscle gain,25,female,21.4
+16.3,moderate,extreme weight gain,42,female,24.8
+17.5,sedentary,aggressive weight gain,63,male,24.4
+17.8,active,extreme weight gain,62,male,23.0
+17.1,active,mild weight gain,36,male,22.1
+16.5,very active,lean muscle gain,53,female,19.9
+15.9,sedentary,extreme weight gain,42,female,18.8
+17.0,moderate,mild weight gain,21,male,20.4
+18.1,sedentary,lean muscle gain,63,female,24.0
+18.0,very active,mild weight gain,47,female,19.7
+17.0,light,lean muscle gain,38,male,24.9
+15.9,active,mild weight gain,26,male,19.9
+15.1,light,mild weight gain,25,male,24.1
+17.4,active,mild weight gain,36,female,19.0
+15.6,very active,aggressive weight gain,55,female,19.6
+17.7,active,extreme weight gain,21,female,22.6
+17.7,active,moderate weight gain,41,female,24.7
+16.6,sedentary,moderate weight gain,34,male,24.8
+16.6,moderate,extreme weight gain,59,male,18.8
+16.5,moderate,aggressive weight gain,62,female,21.5
+15.7,sedentary,mild weight gain,25,male,21.8
+17.9,very active,lean muscle gain,59,male,20.3
+15.2,very active,mild weight gain,58,male,20.3
+15.4,sedentary,lean muscle gain,28,female,20.7
+18.4,very active,mild weight gain,57,female,19.3
+17.5,very active,lean muscle gain,62,female,24.1
+17.3,light,extreme weight gain,22,female,20.4
+17.9,very active,mild weight gain,64,female,18.5
+17.3,sedentary,extreme weight gain,35,male,19.2
+15.4,active,mild weight gain,50,female,21.2
+15.3,light,lean muscle gain,58,female,20.8
+16.2,light,moderate weight gain,26,male,22.3
+15.5,moderate,lean muscle gain,19,male,19.6
+15.2,light,mild weight gain,58,female,21.9
+16.8,very active,moderate weight gain,54,male,21.4
+17.7,sedentary,mild weight gain,55,female,19.9
+16.3,active,aggressive weight gain,62,male,24.0
+16.8,active,extreme weight gain,51,female,24.0
+17.8,sedentary,aggressive weight gain,49,female,24.0
+16.3,active,mild weight gain,41,male,18.7
+16.7,active,lean muscle gain,18,male,19.6
+18.2,light,extreme weight gain,35,female,20.7
+15.0,moderate,aggressive weight gain,55,female,21.0
+17.1,active,extreme weight gain,55,male,20.8
+15.4,light,lean muscle gain,47,female,19.6
+18.3,very active,extreme weight gain,43,male,21.9
+15.7,moderate,moderate weight gain,23,male,24.4
+15.5,light,lean muscle gain,54,female,21.6
+16.3,active,moderate weight gain,26,male,21.5
+15.3,active,mild weight gain,62,female,22.4
+16.2,very active,mild weight gain,30,female,22.0
+15.6,moderate,aggressive weight gain,59,female,20.1
+15.9,sedentary,lean muscle gain,63,male,19.7
+15.9,active,aggressive weight gain,18,female,24.7
+17.0,very active,moderate weight gain,28,female,24.9
+16.4,active,moderate weight gain,57,female,24.9
+16.9,very active,lean muscle gain,25,female,22.5
+17.9,moderate,aggressive weight gain,51,male,23.0
+16.2,very active,aggressive weight gain,56,female,21.4
+15.2,sedentary,moderate weight gain,29,female,22.9
+15.5,active,extreme weight gain,49,female,21.5
+17.0,moderate,mild weight gain,41,male,20.9
+16.3,sedentary,aggressive weight gain,34,male,21.8
+18.0,active,aggressive weight gain,64,male,21.4
+17.0,moderate,mild weight gain,25,female,23.7
+15.0,sedentary,aggressive weight gain,55,male,22.6
+16.5,very active,moderate weight gain,49,female,21.8
+17.3,light,moderate weight gain,38,female,23.1
+17.8,moderate,mild weight gain,47,male,20.6
+18.4,light,mild weight gain,57,male,19.8
+15.0,active,mild weight gain,54,male,18.8
+15.2,very active,extreme weight gain,26,male,18.5
+18.0,sedentary,moderate weight gain,63,female,23.0
+16.4,moderate,aggressive weight gain,25,male,21.1
+17.1,light,lean muscle gain,36,male,22.2
+18.0,sedentary,moderate weight gain,59,female,22.9
+17.4,light,moderate weight gain,30,female,18.8
+16.0,moderate,aggressive weight gain,46,male,20.0
+16.6,sedentary,lean muscle gain,30,male,19.9
+15.7,sedentary,mild weight gain,40,female,21.2
+16.5,active,extreme weight gain,49,female,22.2
+15.8,active,lean muscle gain,41,male,23.1
+16.9,very active,aggressive weight gain,40,female,21.8
+15.9,light,moderate weight gain,51,male,21.7
+15.2,sedentary,mild weight gain,46,female,23.3
+17.4,sedentary,moderate weight gain,25,male,22.3
+16.2,very active,extreme weight gain,28,male,24.5
+16.2,moderate,moderate weight gain,61,female,20.2
+17.7,very active,aggressive weight gain,23,female,24.2
+18.2,sedentary,moderate weight gain,40,female,22.8
+16.9,sedentary,moderate weight gain,64,male,24.5
+15.9,very active,mild weight gain,41,female,24.1
+15.4,sedentary,mild weight gain,38,female,22.8
+17.7,light,mild weight gain,54,female,22.6
+18.3,sedentary,aggressive weight gain,64,female,21.7
+15.7,active,mild weight gain,24,male,20.9
+15.6,active,moderate weight gain,33,male,22.0
+17.2,sedentary,extreme weight gain,62,male,21.5
+17.1,active,moderate weight gain,20,female,20.4
+18.3,active,mild weight gain,53,male,18.8
+16.0,sedentary,mild weight gain,27,male,20.9
+15.9,very active,lean muscle gain,55,female,23.8
+17.9,light,aggressive weight gain,42,male,23.0
+16.4,active,lean muscle gain,60,male,21.9
+18.3,sedentary,extreme weight gain,45,female,21.8
+17.6,light,extreme weight gain,44,female,21.8
+15.1,sedentary,moderate weight gain,54,female,23.4
+16.5,sedentary,mild weight gain,24,female,20.6
+17.2,moderate,lean muscle gain,53,male,22.2
+18.3,sedentary,aggressive weight gain,25,male,23.9
+17.1,very active,aggressive weight gain,21,female,20.4
+15.2,light,moderate weight gain,45,male,20.0
+17.5,light,extreme weight gain,43,female,21.5
+18.2,active,moderate weight gain,28,male,23.5
+16.9,sedentary,aggressive weight gain,43,female,23.5
+17.1,sedentary,moderate weight gain,62,male,24.2
+15.5,active,extreme weight gain,28,male,23.7
+17.8,active,mild weight gain,64,male,24.6
+17.4,sedentary,moderate weight gain,22,female,18.9
+17.1,sedentary,moderate weight gain,55,male,21.4
+17.6,light,lean muscle gain,63,male,20.8
+17.1,light,moderate weight gain,63,male,24.4
+16.6,very active,extreme weight gain,62,male,22.1
+17.3,moderate,lean muscle gain,28,male,19.4
+15.8,active,aggressive weight gain,43,female,24.6
+16.9,sedentary,moderate weight gain,36,male,20.2
+15.2,light,extreme weight gain,61,male,22.5
+17.5,sedentary,aggressive weight gain,60,male,20.8
+18.2,very active,moderate weight gain,25,female,24.7
+17.4,sedentary,aggressive weight gain,56,male,20.1
+15.6,very active,extreme weight gain,26,male,22.1
+15.0,active,moderate weight gain,60,male,20.8
+15.8,light,aggressive weight gain,39,male,20.6
+15.8,active,lean muscle gain,62,female,21.1
+18.1,moderate,moderate weight gain,18,female,19.5
+16.7,moderate,extreme weight gain,37,male,21.6
+15.1,moderate,moderate weight gain,31,male,18.9
+17.7,active,lean muscle gain,44,female,20.1
+17.2,light,moderate weight gain,62,female,20.0
+15.3,moderate,mild weight gain,58,male,21.7
+15.1,light,lean muscle gain,58,male,19.6
+16.5,moderate,lean muscle gain,52,female,23.1
+17.6,active,moderate weight gain,57,male,20.3
+16.4,light,extreme weight gain,32,female,23.5
+15.7,sedentary,aggressive weight gain,56,female,22.3
+15.7,active,moderate weight gain,32,male,19.0
+16.7,moderate,lean muscle gain,53,female,21.1
+17.6,active,aggressive weight gain,51,male,20.8
+16.6,active,lean muscle gain,22,male,18.8
+15.4,sedentary,lean muscle gain,23,male,23.4
+17.5,very active,lean muscle gain,37,male,19.8
+18.0,active,extreme weight gain,29,female,18.8
+17.5,sedentary,lean muscle gain,30,male,22.6
+17.1,very active,mild weight gain,44,male,24.2
+15.6,moderate,extreme weight gain,56,female,20.9
+17.6,very active,mild weight gain,33,male,21.0
+16.4,moderate,moderate weight gain,26,male,23.3
+18.2,sedentary,mild weight gain,21,female,18.8
+16.0,very active,lean muscle gain,55,male,23.1
+16.7,active,mild weight gain,58,male,21.8
+17.8,moderate,mild weight gain,64,male,23.0
+15.4,sedentary,mild weight gain,51,male,23.9
+15.2,active,extreme weight gain,20,male,19.4
+17.4,very active,mild weight gain,34,male,23.2
+16.6,active,moderate weight gain,36,male,21.7
+17.9,light,mild weight gain,31,female,18.6
+16.5,moderate,lean muscle gain,36,female,20.0
+16.9,moderate,lean muscle gain,18,male,24.7
+17.4,very active,aggressive weight gain,36,female,24.0
+15.8,sedentary,extreme weight gain,48,female,24.1
+17.1,moderate,mild weight gain,54,female,20.5
+15.9,moderate,moderate weight gain,33,male,22.5
+18.1,active,mild weight gain,29,female,18.6
+16.3,active,mild weight gain,23,male,19.7
+16.5,very active,aggressive weight gain,50,female,24.1
+15.3,very active,aggressive weight gain,19,female,20.6
+16.3,very active,extreme weight gain,24,male,24.5
+15.4,very active,extreme weight gain,46,female,23.5
+15.9,sedentary,moderate weight gain,46,female,21.3
+15.6,very active,extreme weight gain,58,male,24.7
+15.6,sedentary,aggressive weight gain,29,male,22.2
+15.9,sedentary,aggressive weight gain,33,female,19.8
+16.0,light,aggressive weight gain,56,male,22.7
+15.3,moderate,mild weight gain,37,female,24.6
+16.6,light,lean muscle gain,51,female,19.1
+18.3,light,mild weight gain,50,female,20.1
+17.1,active,aggressive weight gain,19,male,20.5
+15.6,sedentary,moderate weight gain,32,male,19.2
+17.5,moderate,extreme weight gain,51,female,24.2
+17.3,sedentary,lean muscle gain,21,male,21.1
+15.9,sedentary,moderate weight gain,53,male,21.4
+17.9,sedentary,moderate weight gain,44,female,19.7
+16.1,very active,mild weight gain,45,male,24.2
+15.9,sedentary,aggressive weight gain,43,male,21.3
+17.0,sedentary,mild weight gain,59,female,22.4
+17.4,sedentary,lean muscle gain,40,male,19.1
+17.5,sedentary,mild weight gain,63,male,18.6
+15.3,moderate,lean muscle gain,20,female,24.3
+17.1,light,moderate weight gain,35,female,22.8
+16.3,very active,aggressive weight gain,27,female,21.7
+17.5,moderate,moderate weight gain,34,male,23.2
+15.7,sedentary,extreme weight gain,45,male,23.6
+18.0,moderate,lean muscle gain,19,male,22.8
+18.0,light,extreme weight gain,60,male,22.6
+17.7,moderate,moderate weight gain,30,female,21.2
+17.0,moderate,extreme weight gain,45,male,21.1
+16.0,light,mild weight gain,18,female,23.1
+15.5,very active,mild weight gain,27,female,19.5
+17.3,very active,extreme weight gain,36,male,24.1
+17.7,active,extreme weight gain,44,female,18.6
+16.9,very active,moderate weight gain,41,male,20.1
+17.8,very active,extreme weight gain,63,female,19.9
+16.3,sedentary,mild weight gain,38,male,20.2
+16.3,moderate,mild weight gain,22,female,22.0
+18.0,moderate,mild weight gain,39,male,20.7
+15.5,very active,extreme weight gain,64,female,22.8
+15.4,very active,moderate weight gain,54,female,19.6
+17.7,sedentary,mild weight gain,60,female,20.4
+18.0,light,extreme weight gain,53,female,20.0
+16.8,moderate,extreme weight gain,41,female,22.4
+18.4,sedentary,mild weight gain,36,male,21.2
+17.4,sedentary,lean muscle gain,51,male,23.0
+16.9,very active,lean muscle gain,46,male,22.2
+15.5,very active,lean muscle gain,43,male,22.9
+17.3,very active,mild weight gain,34,male,23.4
+15.2,very active,lean muscle gain,60,female,21.5
+17.4,active,mild weight gain,18,male,24.1
+17.8,moderate,extreme weight gain,58,male,23.9
+16.5,light,mild weight gain,62,male,19.7
+16.6,sedentary,moderate weight gain,19,female,19.0
+15.1,sedentary,extreme weight gain,32,female,21.6
+16.9,light,moderate weight gain,30,male,24.8
+18.4,very active,aggressive weight gain,59,male,20.0
+16.5,moderate,extreme weight gain,28,female,18.9
+16.2,moderate,moderate weight gain,26,female,24.4
+17.1,sedentary,extreme weight gain,25,male,19.1
+17.0,very active,moderate weight gain,34,male,23.5
+17.3,very active,aggressive weight gain,24,female,22.5
+15.7,very active,moderate weight gain,34,female,24.2
+17.6,light,extreme weight gain,59,male,22.3
+16.8,active,moderate weight gain,30,male,23.4
+15.9,moderate,mild weight gain,57,male,19.8
+15.7,active,moderate weight gain,61,male,21.2
+15.6,light,moderate weight gain,29,male,19.0
+17.8,sedentary,mild weight gain,64,male,22.7
+18.2,sedentary,lean muscle gain,49,female,22.6
+16.6,moderate,extreme weight gain,24,female,20.3
+15.2,active,extreme weight gain,54,female,23.5
+16.3,sedentary,lean muscle gain,39,female,21.3
+16.4,very active,extreme weight gain,63,female,24.2
+17.7,moderate,lean muscle gain,24,female,21.2
+17.3,moderate,mild weight gain,55,female,19.1
+17.8,very active,aggressive weight gain,49,male,24.3
+17.9,moderate,lean muscle gain,30,male,24.9
+18.3,very active,aggressive weight gain,28,female,24.2
+16.1,moderate,moderate weight gain,49,female,22.7
+15.1,moderate,moderate weight gain,52,male,23.9
+17.1,light,aggressive weight gain,42,female,24.0
+18.4,moderate,moderate weight gain,27,male,23.3
+16.3,moderate,aggressive weight gain,63,female,20.0
+16.2,moderate,lean muscle gain,38,female,21.9
+16.7,light,extreme weight gain,55,male,24.0
+16.7,very active,moderate weight gain,44,male,24.6
+17.9,moderate,lean muscle gain,61,male,19.2
+15.2,sedentary,mild weight gain,27,female,22.6
+15.5,active,mild weight gain,32,female,22.6
+17.4,sedentary,lean muscle gain,63,female,21.4
+15.2,sedentary,aggressive weight gain,60,male,22.9
+17.8,moderate,extreme weight gain,43,female,23.6
+18.0,sedentary,moderate weight gain,53,female,22.2
+17.0,moderate,extreme weight gain,25,male,22.3
+16.4,active,extreme weight gain,33,female,19.0
+17.2,very active,aggressive weight gain,64,female,19.9
+15.7,sedentary,aggressive weight gain,37,male,23.2
+18.1,sedentary,lean muscle gain,47,female,22.5
+16.1,active,mild weight gain,34,female,18.9
+18.0,moderate,moderate weight gain,24,female,20.5
+15.6,light,moderate weight gain,49,female,21.5
+16.5,very active,mild weight gain,57,female,21.9
+16.5,moderate,lean muscle gain,47,female,20.3
+15.4,sedentary,extreme weight gain,30,female,20.1
+18.3,active,moderate weight gain,55,male,19.6
+18.4,light,aggressive weight gain,45,female,20.2
+17.7,light,aggressive weight gain,61,female,19.4
+15.6,sedentary,moderate weight gain,59,male,24.1
+16.4,very active,mild weight gain,35,male,21.4
+18.4,light,lean muscle gain,34,female,22.8
+18.0,moderate,lean muscle gain,35,male,20.9
+17.5,active,aggressive weight gain,24,male,21.7
+17.9,active,aggressive weight gain,42,female,21.1
+15.4,sedentary,mild weight gain,54,female,19.8
+22.1,light,fitness,48,female,22.2
+20.0,sedentary,weight maintenance,49,male,22.0
+19.4,active,weight maintenance,47,male,22.2
+19.9,light,lean muscle gain,39,female,19.7
+24.4,sedentary,fitness,31,female,24.7
+23.6,moderate,lean muscle gain,48,male,20.9
+23.6,sedentary,healthy lifestyle,58,male,19.6
+19.9,active,weight maintenance,62,male,24.1
+22.3,active,weight maintenance,34,female,18.8
+20.2,very active,weight maintenance,41,female,22.0
+20.0,moderate,fitness,64,male,24.6
+22.3,active,weight maintenance,33,male,18.5
+21.6,sedentary,fitness,56,male,21.3
+23.4,light,weight maintenance,60,male,21.0
+23.4,sedentary,lean muscle gain,36,female,18.8
+22.8,active,healthy lifestyle,40,female,21.5
+18.7,active,weight maintenance,64,male,22.0
+23.6,sedentary,lean muscle gain,32,female,23.3
+23.1,sedentary,lean muscle gain,25,male,19.2
+19.6,light,fitness,28,male,20.9
+19.3,light,weight maintenance,38,male,23.4
+23.8,light,fitness,54,male,24.4
+23.8,sedentary,weight maintenance,52,male,21.9
+20.7,moderate,fitness,57,male,18.7
+22.6,moderate,lean muscle gain,55,female,22.3
+23.9,moderate,lean muscle gain,21,female,24.6
+20.3,light,weight maintenance,49,male,20.3
+23.0,moderate,fitness,52,female,22.5
+19.0,sedentary,fitness,35,female,21.3
+23.8,light,lean muscle gain,55,female,24.5
+19.6,active,healthy lifestyle,41,male,20.0
+24.7,light,healthy lifestyle,41,female,21.4
+18.9,active,lean muscle gain,57,female,24.3
+19.6,moderate,fitness,44,female,20.4
+23.5,sedentary,weight maintenance,61,female,21.5
+23.1,light,lean muscle gain,29,male,24.0
+20.4,sedentary,fitness,42,female,20.4
+19.7,sedentary,lean muscle gain,39,male,20.7
+23.2,very active,healthy lifestyle,63,female,21.9
+23.2,sedentary,fitness,22,female,22.5
+24.3,active,healthy lifestyle,35,male,20.7
+23.8,moderate,lean muscle gain,27,male,22.1
+24.5,moderate,weight maintenance,22,female,19.0
+22.2,moderate,weight maintenance,55,male,21.5
+19.9,light,weight maintenance,57,female,24.2
+22.4,active,lean muscle gain,56,female,24.0
+23.6,very active,weight maintenance,45,female,23.3
+23.6,light,weight maintenance,64,female,18.7
+18.8,active,weight maintenance,39,female,18.8
+24.8,sedentary,healthy lifestyle,59,female,22.2
+24.2,moderate,weight maintenance,33,female,23.3
+19.5,light,weight maintenance,34,female,18.8
+21.5,moderate,fitness,31,male,21.6
+19.4,very active,healthy lifestyle,30,male,22.2
+20.3,active,fitness,22,female,19.8
+19.0,light,fitness,64,male,21.2
+20.5,moderate,lean muscle gain,35,female,20.1
+22.1,very active,healthy lifestyle,61,male,23.1
+21.8,active,healthy lifestyle,34,male,23.5
+20.8,light,lean muscle gain,61,female,22.0
+20.5,moderate,fitness,18,male,21.3
+20.8,light,lean muscle gain,31,male,21.1
+18.9,active,lean muscle gain,33,female,21.0
+24.3,light,lean muscle gain,49,male,19.5
+23.0,moderate,healthy lifestyle,26,male,19.1
+19.9,active,healthy lifestyle,56,female,24.2
+20.5,light,fitness,35,female,20.3
+22.8,active,fitness,60,female,21.2
+19.4,light,weight maintenance,63,female,23.8
+20.9,light,fitness,32,female,24.4
+22.0,light,lean muscle gain,23,female,20.3
+24.2,light,healthy lifestyle,60,male,22.1
+23.0,sedentary,weight maintenance,36,male,20.6
+24.0,moderate,fitness,18,female,23.8
+20.9,very active,healthy lifestyle,59,male,22.5
+24.9,sedentary,fitness,58,male,19.7
+19.7,very active,healthy lifestyle,40,female,22.5
+23.5,sedentary,fitness,31,female,19.3
+19.0,sedentary,weight maintenance,31,male,21.0
+22.4,moderate,healthy lifestyle,28,male,19.5
+23.8,sedentary,lean muscle gain,19,female,24.7
+18.7,moderate,healthy lifestyle,33,male,24.4
+18.6,moderate,fitness,33,female,24.0
+23.5,light,lean muscle gain,30,female,20.5
+24.7,moderate,healthy lifestyle,44,male,22.0
+20.2,active,lean muscle gain,30,female,24.3
+19.5,sedentary,lean muscle gain,53,male,19.9
+19.1,active,lean muscle gain,46,male,19.1
+24.1,light,healthy lifestyle,62,female,19.0
+21.7,moderate,healthy lifestyle,53,male,21.3
+21.9,light,weight maintenance,54,male,19.5
+24.3,sedentary,fitness,53,female,22.0
+21.1,very active,fitness,53,female,22.9
+21.0,very active,healthy lifestyle,46,female,23.0
+24.2,active,weight maintenance,56,male,24.2
+21.1,sedentary,lean muscle gain,26,female,20.0
+23.8,active,healthy lifestyle,28,male,21.0
+19.0,active,fitness,30,female,18.7
+21.3,active,healthy lifestyle,59,female,21.7
+20.8,very active,weight maintenance,48,male,23.4
+24.8,moderate,lean muscle gain,27,female,23.4
+22.5,very active,healthy lifestyle,60,female,22.8
+23.8,active,healthy lifestyle,43,male,22.1
+23.7,sedentary,healthy lifestyle,45,female,18.8
+20.4,light,healthy lifestyle,19,female,19.8
+24.0,light,healthy lifestyle,57,female,19.2
+22.8,active,healthy lifestyle,59,male,23.9
+22.3,light,lean muscle gain,47,female,22.4
+20.3,very active,fitness,59,female,23.4
+20.6,light,healthy lifestyle,54,female,22.7
+19.3,active,fitness,60,male,22.4
+23.2,light,weight maintenance,19,female,20.7
+20.6,sedentary,fitness,49,male,21.5
+20.2,active,fitness,18,male,18.7
+22.0,moderate,fitness,48,male,19.6
+24.7,active,weight maintenance,45,female,18.8
+22.1,light,fitness,31,male,21.7
+22.3,light,lean muscle gain,39,female,20.7
+24.0,very active,lean muscle gain,42,female,24.8
+22.8,light,fitness,20,male,22.8
+18.5,moderate,weight maintenance,21,male,20.2
+22.6,active,lean muscle gain,34,male,22.3
+23.9,active,weight maintenance,58,female,19.3
+24.4,very active,healthy lifestyle,40,female,22.7
+20.3,moderate,weight maintenance,48,male,20.4
+20.8,very active,healthy lifestyle,37,male,20.1
+24.3,sedentary,healthy lifestyle,39,female,22.0
+22.4,sedentary,lean muscle gain,18,female,21.0
+19.4,moderate,weight maintenance,43,female,19.0
+24.9,sedentary,healthy lifestyle,64,male,22.2
+21.1,very active,lean muscle gain,50,male,22.8
+23.2,active,lean muscle gain,37,male,22.8
+20.1,moderate,fitness,36,female,23.6
+19.1,very active,lean muscle gain,39,female,23.5
+21.3,moderate,healthy lifestyle,25,female,22.4
+22.0,moderate,fitness,40,male,21.9
+20.3,moderate,lean muscle gain,56,male,23.4
+22.2,moderate,fitness,59,male,22.0
+24.5,moderate,lean muscle gain,23,female,21.8
+22.3,active,weight maintenance,52,female,22.7
+22.0,moderate,healthy lifestyle,21,male,19.4
+23.0,active,healthy lifestyle,54,female,23.4
+23.2,very active,weight maintenance,21,male,24.4
+24.5,light,healthy lifestyle,45,female,22.8
+22.0,light,lean muscle gain,60,male,23.6
+20.7,very active,healthy lifestyle,50,female,23.7
+19.6,active,weight maintenance,20,female,18.9
+19.2,very active,healthy lifestyle,63,female,24.5
+24.8,moderate,healthy lifestyle,55,female,18.5
+23.7,sedentary,fitness,58,female,24.5
+21.6,very active,fitness,55,male,22.4
+20.7,very active,lean muscle gain,51,female,19.3
+23.2,light,lean muscle gain,18,male,19.8
+22.3,moderate,lean muscle gain,41,male,24.1
+20.4,moderate,healthy lifestyle,49,female,21.9
+19.4,very active,lean muscle gain,52,male,19.6
+24.1,very active,weight maintenance,56,female,20.9
+20.5,sedentary,lean muscle gain,47,female,21.5
+20.5,active,fitness,53,female,23.6
+20.5,very active,weight maintenance,43,male,19.7
+20.6,active,lean muscle gain,41,female,21.0
+21.5,very active,fitness,59,male,21.2
+19.5,moderate,healthy lifestyle,26,female,23.5
+19.1,sedentary,healthy lifestyle,32,female,23.7
+22.6,light,healthy lifestyle,24,male,20.9
+21.4,light,weight maintenance,61,male,23.3
+19.8,moderate,fitness,21,male,21.3
+21.7,light,lean muscle gain,23,female,18.9
+23.5,moderate,lean muscle gain,48,female,22.3
+19.6,moderate,healthy lifestyle,26,female,21.2
+19.7,very active,fitness,49,male,18.9
+20.0,very active,healthy lifestyle,64,male,22.8
+19.7,moderate,fitness,29,male,19.8
+24.0,moderate,lean muscle gain,25,male,24.6
+19.7,moderate,weight maintenance,20,male,21.5
+22.0,moderate,lean muscle gain,26,female,21.8
+20.2,light,weight maintenance,39,female,19.2
+21.9,light,healthy lifestyle,33,female,21.4
+21.4,light,lean muscle gain,42,male,21.4
+23.6,sedentary,lean muscle gain,40,male,23.3
+22.9,sedentary,fitness,30,male,23.2
+22.1,active,healthy lifestyle,45,male,19.0
+20.6,sedentary,lean muscle gain,49,female,23.4
+22.2,sedentary,fitness,20,female,18.6
+22.3,very active,weight maintenance,22,male,23.2
+18.8,light,fitness,27,male,22.5
+19.2,active,healthy lifestyle,30,female,20.6
+22.5,moderate,healthy lifestyle,56,male,22.6
+22.9,very active,lean muscle gain,41,male,24.7
+22.5,moderate,fitness,29,male,23.2
+20.2,sedentary,healthy lifestyle,45,male,23.2
+18.9,very active,fitness,52,female,19.7
+22.7,very active,fitness,40,female,21.4
+24.9,moderate,lean muscle gain,62,female,19.4
+18.6,very active,fitness,57,male,23.2
+24.8,moderate,lean muscle gain,40,male,19.8
+23.0,very active,healthy lifestyle,35,male,22.3
+20.1,moderate,weight maintenance,61,female,22.7
+18.9,moderate,fitness,24,female,23.8
+18.8,moderate,weight maintenance,62,male,23.0
+23.6,very active,weight maintenance,40,female,23.2
+20.2,sedentary,lean muscle gain,58,female,21.2
+20.3,moderate,weight maintenance,55,female,18.5
+18.7,moderate,healthy lifestyle,52,male,22.2
+19.1,sedentary,lean muscle gain,41,male,22.5
+20.1,sedentary,weight maintenance,60,female,22.6
+24.2,moderate,healthy lifestyle,36,male,22.3
+23.3,sedentary,fitness,36,male,24.3
+20.2,light,fitness,42,male,19.8
+22.3,sedentary,lean muscle gain,60,male,22.3
+23.1,sedentary,lean muscle gain,35,female,23.4
+18.6,active,healthy lifestyle,57,male,20.8
+20.5,sedentary,lean muscle gain,32,male,20.4
+22.1,very active,lean muscle gain,32,female,23.0
+24.2,active,fitness,62,female,23.7
+19.8,moderate,lean muscle gain,63,female,19.4
+24.2,moderate,weight maintenance,59,male,20.1
+19.8,very active,fitness,26,female,21.2
+21.8,active,healthy lifestyle,56,female,22.9
+23.6,very active,fitness,43,male,19.0
+24.2,light,lean muscle gain,61,male,19.5
+19.3,very active,fitness,56,female,22.8
+19.8,light,healthy lifestyle,35,male,21.7
+22.6,moderate,fitness,36,female,23.3
+19.8,sedentary,lean muscle gain,32,male,23.5
+20.6,sedentary,healthy lifestyle,55,female,23.4
+20.9,sedentary,lean muscle gain,64,female,20.7
+19.2,active,lean muscle gain,36,female,20.1
+22.0,moderate,fitness,51,female,24.4
+19.4,very active,fitness,42,male,22.9
+21.7,light,healthy lifestyle,51,female,22.6
+23.6,moderate,fitness,38,female,24.0
+22.7,moderate,lean muscle gain,49,female,23.3
+24.0,sedentary,weight maintenance,25,female,19.3
+22.6,moderate,fitness,62,female,22.5
+24.0,active,healthy lifestyle,58,male,24.6
+23.9,light,healthy lifestyle,53,male,22.0
+21.8,moderate,lean muscle gain,22,female,22.4
+23.8,moderate,lean muscle gain,31,male,23.0
+23.0,sedentary,lean muscle gain,41,female,24.4
+19.2,light,healthy lifestyle,32,female,21.1
+20.7,moderate,fitness,64,male,24.0
+20.4,very active,lean muscle gain,47,female,23.5
+22.0,active,fitness,46,female,24.7
+19.6,very active,weight maintenance,55,female,21.5
+24.8,sedentary,weight maintenance,31,male,20.1
+22.3,very active,weight maintenance,39,male,21.2
+24.2,sedentary,healthy lifestyle,34,female,24.0
+20.1,very active,healthy lifestyle,51,female,23.3
+22.3,very active,weight maintenance,37,female,24.9
+20.7,sedentary,weight maintenance,59,male,18.9
+19.2,light,healthy lifestyle,46,female,22.0
+23.2,sedentary,healthy lifestyle,50,male,24.1
+19.3,light,healthy lifestyle,60,male,21.8
+22.5,sedentary,healthy lifestyle,53,female,23.1
+24.9,light,fitness,41,female,20.0
+22.5,very active,weight maintenance,54,male,19.0
+22.8,light,healthy lifestyle,47,female,21.8
+21.9,light,fitness,24,female,18.7
+20.3,active,fitness,60,male,23.5
+23.0,moderate,healthy lifestyle,29,female,20.7
+20.0,active,lean muscle gain,44,female,23.7
+24.8,sedentary,lean muscle gain,64,male,24.6
+19.7,active,healthy lifestyle,47,male,22.1
+24.1,very active,healthy lifestyle,58,female,24.3
+19.2,light,healthy lifestyle,34,female,24.6
+20.6,moderate,lean muscle gain,36,male,19.6
+19.0,very active,weight maintenance,38,male,24.3
+19.3,sedentary,healthy lifestyle,38,male,19.6
+19.4,light,lean muscle gain,45,male,21.3
+23.9,sedentary,weight maintenance,40,male,21.7
+19.8,light,fitness,62,female,20.3
+23.3,moderate,fitness,27,female,21.4
+20.5,sedentary,lean muscle gain,18,female,21.7
+19.3,moderate,fitness,23,male,21.1
+19.7,very active,healthy lifestyle,32,female,24.6
+24.7,active,weight maintenance,44,male,23.2
+23.0,light,weight maintenance,33,male,21.7
+22.5,very active,fitness,52,male,21.6
+22.5,sedentary,weight maintenance,58,male,22.6
+23.3,light,healthy lifestyle,24,male,23.8
+20.6,light,healthy lifestyle,43,female,20.5
+22.9,active,weight maintenance,50,female,22.0
+24.7,moderate,lean muscle gain,29,female,22.7
+22.3,moderate,lean muscle gain,34,female,21.9
+21.5,light,healthy lifestyle,53,female,23.6
+24.2,active,fitness,43,male,20.7
+24.0,moderate,weight maintenance,55,male,23.1
+19.0,sedentary,weight maintenance,41,male,19.4
+23.9,active,fitness,41,male,21.0
+20.7,light,lean muscle gain,47,female,19.2
+23.1,light,healthy lifestyle,46,female,20.0
+19.0,light,lean muscle gain,37,male,24.1
+22.3,sedentary,weight maintenance,48,female,19.8
+24.6,moderate,lean muscle gain,26,male,23.2
+20.1,very active,healthy lifestyle,36,female,21.5
+24.4,light,fitness,45,male,21.2
+21.3,light,weight maintenance,59,male,21.6
+22.1,sedentary,lean muscle gain,20,male,23.4
+23.6,active,lean muscle gain,24,female,23.8
+23.2,very active,fitness,18,male,23.7
+18.6,light,lean muscle gain,46,male,18.9
+20.8,sedentary,fitness,60,female,22.6
+19.8,light,weight maintenance,62,female,20.4
+19.9,very active,fitness,28,female,24.7
+21.2,active,fitness,61,male,21.5
+23.0,light,lean muscle gain,43,male,20.1
+19.8,light,fitness,26,male,18.5
+20.1,active,fitness,37,female,22.7
+23.2,active,lean muscle gain,19,female,22.3
+24.7,light,lean muscle gain,63,female,22.2
+21.7,light,lean muscle gain,47,male,19.6
+21.0,moderate,fitness,37,male,21.5
+23.9,moderate,weight maintenance,28,male,19.0
+21.3,very active,weight maintenance,26,male,19.6
+19.4,light,weight maintenance,25,male,20.3
+23.9,light,lean muscle gain,52,male,23.0
+24.6,active,fitness,61,male,23.1
+20.2,light,weight maintenance,34,male,18.8
+20.4,active,healthy lifestyle,21,female,21.9
+19.6,sedentary,lean muscle gain,35,male,20.9
+19.3,light,fitness,23,female,19.3
+20.6,sedentary,healthy lifestyle,29,male,21.6
+21.1,active,weight maintenance,53,female,20.3
+23.7,active,weight maintenance,59,female,20.1
+21.7,light,weight maintenance,39,male,24.0
+19.4,active,lean muscle gain,40,male,18.9
+20.3,very active,lean muscle gain,39,female,23.1
+24.0,sedentary,healthy lifestyle,55,female,18.8
+20.6,very active,lean muscle gain,23,male,22.8
+20.3,sedentary,healthy lifestyle,35,female,21.4
+23.3,active,lean muscle gain,59,male,21.4
+20.1,light,lean muscle gain,59,female,23.8
+21.5,sedentary,lean muscle gain,57,female,23.6
+21.0,sedentary,weight maintenance,19,female,23.1
+19.1,active,healthy lifestyle,35,female,21.0
+20.7,active,weight maintenance,27,male,22.5
+23.4,light,fitness,53,male,24.7
+22.3,active,fitness,36,female,23.0
+21.4,moderate,fitness,33,male,21.6
+19.1,sedentary,lean muscle gain,35,male,21.2
+22.0,very active,healthy lifestyle,46,male,19.6
+24.0,light,healthy lifestyle,29,female,22.1
+18.6,very active,weight maintenance,39,female,24.7
+19.0,light,fitness,41,female,22.9
+19.3,active,weight maintenance,49,male,22.2
+24.1,light,lean muscle gain,30,male,22.7
+19.3,light,lean muscle gain,24,female,20.5
+21.1,active,weight maintenance,23,male,20.4
+19.8,very active,weight maintenance,40,male,23.0
+21.4,sedentary,healthy lifestyle,56,female,20.1
+19.8,very active,healthy lifestyle,21,female,24.6
+22.1,sedentary,lean muscle gain,29,female,18.6
+23.7,active,weight maintenance,29,male,24.2
+24.3,moderate,weight maintenance,51,female,21.0
+19.7,very active,lean muscle gain,31,male,21.3
+24.5,sedentary,healthy lifestyle,58,female,20.3
+24.4,moderate,weight maintenance,32,female,24.9
+20.5,moderate,fitness,29,female,21.1
+24.8,active,weight maintenance,40,female,22.6
+20.0,sedentary,weight maintenance,35,male,22.5
+24.6,light,weight maintenance,31,female,19.9
+21.6,light,healthy lifestyle,45,female,19.4
+24.4,light,fitness,18,male,20.0
+22.7,moderate,healthy lifestyle,41,male,19.3
+22.2,light,weight maintenance,55,male,22.8
+21.2,sedentary,lean muscle gain,24,male,23.0
+18.5,moderate,healthy lifestyle,51,male,22.9
+24.3,sedentary,healthy lifestyle,30,male,23.1
+21.3,active,fitness,53,male,24.5
+23.0,sedentary,fitness,29,male,19.0
+18.7,active,healthy lifestyle,40,female,23.2
+22.1,active,lean muscle gain,54,male,18.8
+20.4,very active,healthy lifestyle,47,male,21.5
+19.7,active,lean muscle gain,36,male,19.3
+19.8,very active,lean muscle gain,51,female,18.6
+20.7,light,weight maintenance,30,male,24.8
+24.2,moderate,lean muscle gain,38,female,21.4
+19.3,very active,fitness,38,male,24.7
+18.6,sedentary,fitness,48,female,23.5
+22.4,moderate,lean muscle gain,50,male,21.2
+23.4,very active,healthy lifestyle,53,female,24.2
+20.1,sedentary,weight maintenance,24,female,21.8
+21.6,active,lean muscle gain,55,female,24.6
+24.2,very active,fitness,64,female,20.2
+24.6,sedentary,weight maintenance,62,male,23.8
+23.8,moderate,weight maintenance,62,female,21.0
+18.9,active,weight maintenance,51,male,19.0
+21.5,moderate,weight maintenance,30,male,23.1
+24.3,light,healthy lifestyle,36,female,18.5
+19.1,light,healthy lifestyle,37,male,19.5
+18.6,active,healthy lifestyle,34,male,20.1
+24.9,moderate,healthy lifestyle,34,male,20.3
+21.1,sedentary,weight maintenance,47,female,19.6
+23.9,active,healthy lifestyle,41,female,18.9
+20.4,moderate,lean muscle gain,35,male,19.1
+24.0,sedentary,weight maintenance,32,female,23.7
+21.3,active,weight maintenance,52,female,23.5
+23.6,active,weight maintenance,38,male,20.7
+23.3,moderate,healthy lifestyle,49,female,20.0
+19.7,moderate,lean muscle gain,35,male,21.8
+19.4,active,lean muscle gain,48,female,22.1
+22.7,active,fitness,26,male,21.0
+23.1,moderate,healthy lifestyle,35,male,19.3
+21.8,active,lean muscle gain,42,female,22.9
+20.6,active,weight maintenance,55,male,21.9
+18.8,sedentary,healthy lifestyle,48,female,21.0
+24.6,light,fitness,29,male,23.1
+21.1,active,fitness,34,female,21.3
+21.1,moderate,lean muscle gain,56,male,18.5
+18.5,very active,fitness,51,female,21.6
+22.9,very active,fitness,49,male,23.7
+24.5,moderate,healthy lifestyle,29,male,22.8
+20.7,light,lean muscle gain,27,male,22.5
+23.1,moderate,weight maintenance,49,female,20.2
+18.5,very active,lean muscle gain,55,female,21.8
+24.1,active,weight maintenance,54,female,21.2
+23.1,active,weight maintenance,57,male,20.8
+24.0,moderate,fitness,34,female,23.9
+20.5,sedentary,fitness,30,female,18.9
+19.9,moderate,fitness,39,male,19.6
+19.4,active,fitness,29,female,24.0
+24.3,very active,weight maintenance,62,female,24.0
+21.9,sedentary,lean muscle gain,33,female,21.4
+20.3,very active,fitness,28,female,21.5
+24.2,light,lean muscle gain,51,male,22.1
+18.8,very active,fitness,23,male,20.0
+19.3,light,fitness,33,male,22.7
+22.0,very active,healthy lifestyle,23,male,20.4
+20.4,light,lean muscle gain,39,female,22.5
+19.2,very active,lean muscle gain,54,male,22.6
+22.6,very active,healthy lifestyle,35,female,21.4
+19.0,moderate,healthy lifestyle,27,male,24.0
+19.4,light,healthy lifestyle,50,female,22.9
+19.2,active,fitness,47,male,19.4
+21.5,active,weight maintenance,56,male,19.2
+23.3,light,weight maintenance,44,female,22.6
+20.1,very active,healthy lifestyle,55,male,19.4
+24.5,light,lean muscle gain,48,male,22.4
+23.2,very active,fitness,56,female,20.3
+21.5,very active,lean muscle gain,28,male,23.6
+24.9,sedentary,weight maintenance,56,male,19.0
+20.7,active,healthy lifestyle,64,female,18.6
+24.1,moderate,healthy lifestyle,45,male,21.8
+23.4,active,healthy lifestyle,19,female,23.3
+18.9,light,weight maintenance,26,female,22.3
+21.5,light,fitness,29,female,23.5
+21.9,sedentary,healthy lifestyle,27,male,18.9
+20.8,very active,fitness,55,male,22.9
+20.2,moderate,lean muscle gain,18,female,20.5
+22.3,very active,lean muscle gain,33,male,24.1
+21.7,moderate,fitness,43,female,24.1
+22.2,sedentary,healthy lifestyle,25,female,19.4
+21.4,very active,lean muscle gain,38,female,22.8
+23.1,light,weight maintenance,46,female,21.8
+22.2,light,weight maintenance,33,female,22.9
+19.7,sedentary,lean muscle gain,46,female,19.7
+21.9,very active,weight maintenance,26,male,19.2
+22.3,light,weight maintenance,60,female,20.3
+22.2,very active,fitness,24,female,23.2
+20.8,light,weight maintenance,26,male,19.3
+22.5,light,lean muscle gain,42,female,19.0
+20.6,light,fitness,19,female,22.4
+23.0,active,fitness,54,female,23.8
+23.9,sedentary,weight maintenance,34,male,20.3
+24.6,sedentary,healthy lifestyle,20,female,18.7
+23.5,active,weight maintenance,43,male,19.9
+19.9,moderate,lean muscle gain,45,female,19.4
+24.3,sedentary,healthy lifestyle,32,female,19.4
+22.2,sedentary,healthy lifestyle,43,male,20.7
+24.3,very active,fitness,28,female,24.4
+24.8,light,healthy lifestyle,24,male,24.3
+21.4,sedentary,fitness,50,male,20.2
+24.6,active,lean muscle gain,53,female,19.8
+22.8,moderate,lean muscle gain,47,female,20.4
+20.6,light,healthy lifestyle,18,male,22.2
+19.4,moderate,weight maintenance,54,male,19.3
+22.0,active,weight maintenance,35,female,19.1
+19.3,light,weight maintenance,53,female,20.8
+18.9,very active,fitness,43,male,18.6
+21.3,moderate,weight maintenance,48,female,21.8
+20.7,moderate,weight maintenance,52,female,19.7
+22.9,active,fitness,58,male,20.1
+24.0,active,lean muscle gain,46,male,23.7
+19.9,very active,weight maintenance,59,female,19.0
+24.5,very active,fitness,26,male,19.6
+20.1,sedentary,fitness,46,male,18.9
+19.5,light,weight maintenance,32,male,20.7
+20.4,sedentary,lean muscle gain,56,female,21.4
+24.5,light,fitness,59,female,24.8
+18.8,light,healthy lifestyle,37,female,22.2
+18.5,very active,lean muscle gain,31,male,23.7
+24.7,active,fitness,61,male,24.4
+19.4,sedentary,fitness,49,male,24.8
+20.4,active,weight maintenance,20,female,19.1
+20.9,light,fitness,20,female,19.1
+21.8,active,healthy lifestyle,40,male,23.0
+18.6,active,lean muscle gain,48,female,19.4
+23.5,very active,fitness,22,female,20.1
+18.9,moderate,healthy lifestyle,42,female,22.4
+22.6,moderate,weight maintenance,20,female,19.0
+22.6,moderate,lean muscle gain,59,female,24.0
+21.1,light,fitness,35,male,22.4
+22.5,active,fitness,47,female,18.7
+20.7,light,weight maintenance,64,male,19.6
+19.7,moderate,weight maintenance,28,male,23.1
+18.6,moderate,lean muscle gain,49,female,22.9
+21.3,light,fitness,46,male,21.9
+23.3,very active,healthy lifestyle,50,male,19.4
+24.8,active,lean muscle gain,22,female,21.0
+22.5,light,weight maintenance,39,male,23.8
+24.0,sedentary,healthy lifestyle,35,female,22.8
+18.9,very active,healthy lifestyle,50,female,24.3
+21.3,light,weight maintenance,23,female,19.3
+24.3,light,healthy lifestyle,58,female,18.5
+22.5,very active,fitness,23,female,19.0
+20.6,active,healthy lifestyle,31,female,24.6
+24.3,light,weight maintenance,30,male,21.4
+21.4,moderate,weight maintenance,32,female,23.5
+21.1,moderate,fitness,51,male,24.4
+21.8,moderate,fitness,36,male,19.0
+21.3,active,weight maintenance,20,male,20.5
+20.4,sedentary,healthy lifestyle,45,male,21.6
+21.1,sedentary,fitness,54,male,19.1
+21.1,active,healthy lifestyle,63,male,19.9
+20.0,active,healthy lifestyle,59,male,20.3
+18.6,moderate,fitness,41,male,24.1
+24.9,light,weight maintenance,20,female,24.0
+23.6,sedentary,weight maintenance,20,female,22.4
+20.5,very active,weight maintenance,18,male,20.9
+23.9,active,lean muscle gain,45,male,19.4
+22.8,light,lean muscle gain,20,female,22.9
+23.7,very active,weight maintenance,38,male,19.9
+19.7,light,lean muscle gain,48,male,22.1
+20.3,moderate,lean muscle gain,48,male,21.1
+19.4,sedentary,healthy lifestyle,52,female,18.6
+22.8,very active,lean muscle gain,62,male,23.8
+21.4,active,fitness,42,female,21.7
+23.4,sedentary,weight maintenance,20,male,19.8
+21.9,moderate,lean muscle gain,42,male,24.0
+24.7,very active,fitness,39,male,21.8
+20.1,moderate,lean muscle gain,37,male,23.6
+19.8,sedentary,lean muscle gain,41,female,23.2
+22.8,active,lean muscle gain,30,male,23.7
+18.5,active,weight maintenance,57,female,24.7
+18.6,active,healthy lifestyle,49,female,22.4
+23.0,very active,fitness,33,male,19.1
+23.4,light,healthy lifestyle,21,female,23.6
+18.8,moderate,lean muscle gain,43,female,20.4
+21.4,sedentary,weight maintenance,42,male,24.0
+24.5,sedentary,fitness,31,male,21.8
+21.0,very active,fitness,40,female,23.9
+23.9,light,weight maintenance,50,female,23.8
+21.6,moderate,fitness,52,female,22.2
+21.6,active,fitness,27,female,20.6
+24.6,light,weight maintenance,47,male,20.5
+19.8,moderate,fitness,33,female,22.9
+19.0,very active,fitness,60,female,20.4
+20.3,moderate,lean muscle gain,42,female,19.7
+19.0,moderate,lean muscle gain,23,male,22.7
+20.7,very active,fitness,64,male,22.1
+21.5,light,fitness,24,female,23.7
+23.8,moderate,healthy lifestyle,46,female,21.2
+20.2,active,lean muscle gain,41,male,21.8
+22.2,moderate,lean muscle gain,35,female,23.2
+20.2,active,healthy lifestyle,25,female,23.0
+23.2,very active,lean muscle gain,52,male,21.9
+24.9,active,fitness,40,male,23.6
+19.5,very active,weight maintenance,32,male,20.3
+22.0,light,lean muscle gain,32,female,19.0
+21.1,moderate,fitness,28,female,24.5
+20.8,very active,healthy lifestyle,54,female,19.2
+19.6,light,healthy lifestyle,26,male,21.8
+19.6,moderate,weight maintenance,56,female,22.8
+21.7,sedentary,weight maintenance,27,male,22.9
+24.9,very active,lean muscle gain,61,female,22.8
+20.1,active,lean muscle gain,31,female,20.9
+21.1,very active,weight maintenance,35,male,24.8
+21.4,sedentary,healthy lifestyle,48,female,20.3
+24.2,active,lean muscle gain,29,male,18.6
+20.6,very active,weight maintenance,49,male,23.1
+19.2,sedentary,lean muscle gain,63,female,21.0
+20.4,light,lean muscle gain,54,female,19.4
+22.6,moderate,fitness,41,male,23.5
+24.4,moderate,lean muscle gain,57,female,19.1
+18.5,moderate,fitness,59,male,24.2
+23.4,moderate,fitness,31,female,24.4
+23.5,very active,weight maintenance,25,female,22.9
+20.7,sedentary,fitness,47,female,23.4
+20.8,sedentary,weight maintenance,51,male,20.9
+23.0,active,healthy lifestyle,31,male,19.7
+19.3,light,lean muscle gain,42,male,24.8
+21.7,active,healthy lifestyle,64,female,18.5
+24.7,active,healthy lifestyle,57,male,19.5
+21.0,light,fitness,36,female,22.8
+21.7,sedentary,lean muscle gain,62,female,21.2
+18.6,sedentary,healthy lifestyle,56,male,19.1
+20.3,light,healthy lifestyle,21,male,20.6
+18.7,moderate,healthy lifestyle,31,male,24.4
+24.2,moderate,weight maintenance,58,female,21.5
+23.9,moderate,healthy lifestyle,57,female,21.7
+22.6,sedentary,healthy lifestyle,19,male,20.7
+22.0,very active,fitness,50,male,22.3
+23.9,very active,healthy lifestyle,49,male,22.0
+18.9,very active,weight maintenance,25,male,21.0
+19.0,moderate,fitness,24,male,20.4
+20.5,sedentary,healthy lifestyle,63,female,24.1
+20.9,moderate,healthy lifestyle,63,female,18.6
+22.1,active,lean muscle gain,51,female,21.7
+22.3,sedentary,healthy lifestyle,63,female,23.9
+23.2,sedentary,lean muscle gain,46,male,20.5
+22.2,light,fitness,30,male,22.6
+19.0,light,weight maintenance,58,male,21.2
+22.9,sedentary,weight maintenance,42,male,24.1
+21.0,very active,fitness,31,male,20.2
+19.3,active,weight maintenance,47,female,21.2
+20.1,moderate,healthy lifestyle,21,female,22.6
+19.0,moderate,lean muscle gain,50,female,20.3
+23.0,active,healthy lifestyle,56,female,18.5
+21.4,sedentary,weight maintenance,51,male,21.4
+20.5,sedentary,lean muscle gain,61,male,19.8
+22.0,light,lean muscle gain,44,male,22.5
+19.6,active,fitness,29,male,21.7
+20.7,moderate,weight maintenance,30,male,24.5
+23.2,light,healthy lifestyle,22,male,23.8
+21.9,moderate,healthy lifestyle,56,male,18.7
+22.5,very active,healthy lifestyle,54,male,22.1
+22.1,sedentary,lean muscle gain,44,male,19.1
+22.9,moderate,lean muscle gain,25,male,24.8
+24.4,moderate,fitness,46,female,21.3
+24.1,moderate,lean muscle gain,25,female,18.9
+21.1,active,fitness,48,female,20.4
+19.8,sedentary,healthy lifestyle,59,female,19.7
+21.0,light,healthy lifestyle,49,female,24.4
+24.8,moderate,fitness,55,female,21.5
+21.3,light,lean muscle gain,25,male,19.5
+20.2,moderate,fitness,29,male,22.3
+23.5,very active,healthy lifestyle,26,female,22.1
+19.3,moderate,lean muscle gain,31,male,21.9
+19.4,sedentary,healthy lifestyle,61,female,24.9
+18.8,sedentary,weight maintenance,20,male,19.1
+18.8,active,lean muscle gain,61,female,20.7
+24.6,active,lean muscle gain,35,male,20.2
+21.9,moderate,weight maintenance,53,male,19.0
+22.7,moderate,weight maintenance,64,female,23.8
+23.3,active,weight maintenance,57,male,22.5
+22.5,moderate,healthy lifestyle,23,female,20.8
+21.6,moderate,healthy lifestyle,29,male,24.6
+20.4,sedentary,weight maintenance,53,male,21.1
+19.3,sedentary,healthy lifestyle,59,male,20.9
+24.7,light,lean muscle gain,28,male,22.4
+19.0,active,lean muscle gain,30,male,23.7
+20.7,sedentary,lean muscle gain,51,male,24.4
+19.1,very active,healthy lifestyle,19,male,24.0
+24.8,active,healthy lifestyle,46,female,19.5
+24.6,very active,weight maintenance,38,female,22.8
+23.2,very active,weight maintenance,19,male,19.0
+24.3,very active,fitness,24,male,24.4
+20.1,very active,healthy lifestyle,56,female,22.8
+22.4,sedentary,weight maintenance,54,male,19.7
+20.2,sedentary,weight maintenance,18,male,21.7
+20.0,moderate,weight maintenance,18,male,23.3
+21.6,moderate,fitness,58,female,20.4
+20.3,very active,lean muscle gain,54,female,22.0
+20.0,sedentary,fitness,39,male,20.6
+19.7,very active,weight maintenance,54,male,23.7
+21.2,active,weight maintenance,31,female,22.1
+24.1,active,weight maintenance,45,female,19.0
+22.1,sedentary,fitness,32,female,24.1
+19.1,sedentary,healthy lifestyle,30,male,22.8
+20.3,sedentary,lean muscle gain,31,female,20.1
+22.9,sedentary,fitness,52,female,22.4
+24.3,active,weight maintenance,60,male,18.7
+21.4,active,lean muscle gain,28,male,22.0
+21.8,moderate,lean muscle gain,23,female,19.2
+24.5,moderate,fitness,62,male,20.5
+18.7,sedentary,lean muscle gain,42,male,19.2
+21.2,very active,fitness,52,female,19.8
+23.4,light,lean muscle gain,55,male,24.7
+20.7,moderate,lean muscle gain,48,male,23.3
+24.5,sedentary,lean muscle gain,48,male,24.6
+20.1,light,fitness,32,male,21.1
+22.4,moderate,healthy lifestyle,62,female,23.0
+23.1,sedentary,fitness,24,male,19.7
+24.0,light,lean muscle gain,37,female,20.6
+21.8,light,weight maintenance,28,male,19.5
+22.2,light,weight maintenance,37,male,21.3
+24.2,active,fitness,37,female,23.3
+23.6,active,weight maintenance,28,female,20.3
+23.8,very active,lean muscle gain,43,female,22.2
+21.9,sedentary,healthy lifestyle,52,male,22.7
+21.8,light,lean muscle gain,46,male,21.9
+19.8,light,fitness,29,male,23.6
+20.3,light,lean muscle gain,43,male,20.3
+20.8,light,fitness,34,female,22.4
+18.7,moderate,weight maintenance,39,female,18.5
+23.9,active,weight maintenance,36,female,23.6
+20.0,sedentary,weight maintenance,39,female,20.7
+23.8,sedentary,fitness,36,female,24.0
+21.3,very active,lean muscle gain,18,male,20.0
+19.0,very active,weight maintenance,34,female,23.8
+19.1,very active,weight maintenance,50,female,20.7
+23.7,light,healthy lifestyle,27,female,21.4
+19.5,very active,weight maintenance,30,female,22.8
+24.2,sedentary,fitness,36,male,21.3
+22.1,very active,fitness,18,female,24.0
+22.8,moderate,weight maintenance,22,male,19.0
+19.2,active,weight maintenance,44,male,21.8
+19.6,sedentary,lean muscle gain,50,male,24.4
+22.4,light,weight maintenance,46,female,18.9
+24.7,light,lean muscle gain,38,female,20.0
+23.7,active,lean muscle gain,57,female,18.8
+23.2,light,fitness,59,male,21.4
+20.8,sedentary,healthy lifestyle,21,female,21.6
+23.2,sedentary,fitness,63,female,24.1
+22.1,light,fitness,37,male,21.1
+19.2,sedentary,lean muscle gain,48,male,22.9
+20.5,sedentary,fitness,30,female,19.1
+19.2,moderate,weight maintenance,48,male,19.9
+23.2,very active,weight maintenance,22,female,21.2
+18.8,active,lean muscle gain,26,female,18.6
+19.3,light,weight maintenance,20,male,20.0
+23.7,light,healthy lifestyle,27,female,23.6
+23.3,light,lean muscle gain,59,female,20.0
+22.8,light,weight maintenance,32,male,21.1
+20.6,very active,fitness,36,male,24.5
+19.2,moderate,lean muscle gain,37,male,22.8
+22.3,light,fitness,47,male,23.1
+20.6,active,weight maintenance,23,female,23.9
+24.0,sedentary,healthy lifestyle,23,male,21.3
+21.8,sedentary,lean muscle gain,28,female,23.2
+20.9,sedentary,healthy lifestyle,48,female,19.9
+20.0,very active,weight maintenance,19,female,19.8
+22.2,moderate,weight maintenance,30,male,24.6
+22.5,moderate,weight maintenance,19,female,20.7
+19.7,active,weight maintenance,58,male,23.4
+19.8,moderate,fitness,27,male,20.6
+24.5,very active,weight maintenance,33,male,19.8
+21.8,moderate,weight maintenance,35,female,21.4
+21.0,light,lean muscle gain,59,female,21.6
+20.5,very active,healthy lifestyle,25,female,21.2
+22.5,active,healthy lifestyle,39,male,23.4
+20.3,sedentary,fitness,47,male,23.6
+18.9,active,healthy lifestyle,64,female,18.9
+19.6,moderate,lean muscle gain,57,female,20.9
+21.1,moderate,weight maintenance,37,female,24.5
+22.4,sedentary,lean muscle gain,29,male,18.8
+23.0,light,weight maintenance,56,female,22.6
+19.5,sedentary,weight maintenance,30,female,18.8
+22.1,very active,fitness,26,male,20.9
+27.6,sedentary,moderate weight loss,41,female,18.5
+25.7,light,moderate weight loss,49,male,23.0
+27.2,active,muscle cutting,33,female,18.5
+27.6,moderate,moderate weight loss,50,female,22.8
+29.7,active,aggressive weight loss,40,female,22.6
+29.4,active,aggressive weight loss,63,female,23.9
+25.3,active,extreme weight loss,46,male,21.1
+26.9,sedentary,extreme weight loss,19,female,20.8
+27.6,sedentary,aggressive weight loss,40,male,24.5
+27.1,very active,muscle cutting,32,male,21.5
+26.2,active,aggressive weight loss,64,male,19.0
+27.2,sedentary,extreme weight loss,44,male,23.0
+29.1,sedentary,muscle cutting,46,male,23.4
+27.6,active,aggressive weight loss,37,male,18.5
+26.2,light,aggressive weight loss,40,male,23.7
+25.1,very active,muscle cutting,44,male,18.7
+29.4,active,moderate weight loss,35,male,20.0
+29.2,very active,extreme weight loss,60,female,23.0
+29.8,active,extreme weight loss,58,female,21.0
+26.3,very active,muscle cutting,28,female,22.6
+29.5,very active,extreme weight loss,37,male,24.9
+28.8,sedentary,aggressive weight loss,42,male,21.0
+28.6,sedentary,moderate weight loss,42,male,18.6
+29.3,moderate,extreme weight loss,40,male,21.9
+27.4,sedentary,aggressive weight loss,31,female,19.3
+29.4,light,extreme weight loss,61,female,24.3
+28.8,moderate,muscle cutting,51,female,19.3
+25.8,sedentary,muscle cutting,45,male,19.7
+28.1,light,moderate weight loss,18,female,19.0
+27.8,sedentary,aggressive weight loss,34,male,22.6
+26.6,very active,muscle cutting,19,female,23.4
+25.2,moderate,extreme weight loss,39,male,22.3
+25.2,sedentary,muscle cutting,45,male,24.9
+25.6,very active,aggressive weight loss,46,female,20.8
+28.2,active,moderate weight loss,31,female,20.3
+29.9,light,moderate weight loss,27,female,19.7
+29.3,very active,extreme weight loss,20,female,21.2
+28.4,very active,muscle cutting,29,female,19.5
+26.6,very active,muscle cutting,40,male,18.6
+28.8,moderate,aggressive weight loss,43,female,21.6
+28.8,sedentary,aggressive weight loss,60,female,18.9
+26.4,light,extreme weight loss,62,male,21.4
+29.8,light,extreme weight loss,52,male,23.2
+27.3,light,muscle cutting,52,male,22.2
+28.7,very active,moderate weight loss,50,female,19.9
+28.8,very active,aggressive weight loss,51,female,19.2
+27.9,active,moderate weight loss,54,female,21.8
+28.6,active,moderate weight loss,26,female,21.1
+25.3,active,aggressive weight loss,41,male,24.0
+27.4,moderate,moderate weight loss,44,female,24.2
+25.5,active,aggressive weight loss,35,female,21.5
+26.9,active,muscle cutting,62,male,20.6
+26.5,sedentary,extreme weight loss,20,male,21.6
+25.9,light,muscle cutting,52,male,19.4
+27.4,very active,muscle cutting,56,male,21.7
+27.7,moderate,extreme weight loss,25,female,19.3
+29.6,light,extreme weight loss,27,female,20.9
+25.6,very active,extreme weight loss,48,male,24.5
+28.7,light,moderate weight loss,40,female,21.2
+25.3,sedentary,muscle cutting,44,male,24.0
+25.5,moderate,extreme weight loss,32,female,19.1
+27.1,light,aggressive weight loss,45,female,22.0
+29.2,sedentary,aggressive weight loss,35,male,22.0
+25.0,active,aggressive weight loss,26,male,21.3
+26.7,moderate,aggressive weight loss,31,female,21.5
+28.7,active,aggressive weight loss,41,male,24.7
+29.0,light,moderate weight loss,21,male,18.9
+27.2,moderate,aggressive weight loss,34,female,23.8
+29.8,very active,moderate weight loss,26,male,24.8
+26.6,very active,aggressive weight loss,48,female,23.7
+25.4,active,aggressive weight loss,64,female,18.8
+26.6,light,muscle cutting,24,female,24.7
+27.1,very active,muscle cutting,30,male,24.1
+29.9,sedentary,aggressive weight loss,30,male,22.7
+29.3,sedentary,aggressive weight loss,25,male,21.9
+29.6,very active,muscle cutting,23,male,23.9
+25.3,light,aggressive weight loss,20,male,22.6
+28.2,light,aggressive weight loss,26,female,20.7
+28.1,very active,moderate weight loss,29,female,20.4
+29.5,sedentary,aggressive weight loss,21,male,23.8
+25.2,sedentary,muscle cutting,28,male,24.7
+25.0,light,moderate weight loss,41,female,22.8
+29.3,sedentary,muscle cutting,32,female,20.0
+29.0,very active,aggressive weight loss,48,male,23.3
+25.5,sedentary,extreme weight loss,62,male,22.2
+27.5,light,muscle cutting,24,female,20.8
+26.3,moderate,muscle cutting,37,female,22.7
+29.1,sedentary,moderate weight loss,28,female,20.7
+25.6,very active,extreme weight loss,44,male,22.5
+28.2,very active,aggressive weight loss,53,male,18.6
+29.8,light,extreme weight loss,45,male,24.6
+28.2,light,moderate weight loss,57,female,21.0
+25.8,moderate,moderate weight loss,33,female,24.0
+28.4,moderate,aggressive weight loss,59,male,21.8
+25.6,moderate,aggressive weight loss,30,male,19.0
+28.3,light,moderate weight loss,40,female,22.9
+28.4,sedentary,aggressive weight loss,33,male,20.6
+26.4,very active,muscle cutting,63,male,21.2
+27.7,moderate,moderate weight loss,43,female,23.2
+28.4,sedentary,extreme weight loss,29,male,20.4
+27.3,moderate,muscle cutting,53,male,21.7
+29.8,sedentary,extreme weight loss,43,female,19.6
+27.2,very active,extreme weight loss,38,female,20.1
+27.7,very active,moderate weight loss,61,female,20.5
+28.5,very active,muscle cutting,45,male,19.8
+25.7,sedentary,muscle cutting,20,female,22.0
+28.3,light,moderate weight loss,52,female,22.8
+25.9,active,moderate weight loss,20,male,19.8
+26.0,sedentary,muscle cutting,46,female,20.0
+28.8,light,extreme weight loss,50,female,21.4
+28.8,sedentary,extreme weight loss,21,male,23.9
+29.1,light,moderate weight loss,52,female,19.7
+28.0,active,extreme weight loss,18,female,24.1
+26.1,sedentary,aggressive weight loss,31,male,20.1
+29.5,sedentary,moderate weight loss,55,male,20.9
+29.1,sedentary,moderate weight loss,46,male,23.8
+25.2,sedentary,muscle cutting,63,male,24.1
+27.4,light,moderate weight loss,48,male,22.8
+27.2,light,moderate weight loss,45,male,20.7
+27.4,sedentary,aggressive weight loss,50,female,21.1
+29.7,active,extreme weight loss,41,male,22.3
+26.9,active,aggressive weight loss,49,female,20.7
+28.0,sedentary,muscle cutting,25,male,21.7
+27.7,sedentary,moderate weight loss,22,female,23.8
+27.7,active,extreme weight loss,43,male,24.6
+29.6,very active,moderate weight loss,43,male,23.9
+27.4,light,muscle cutting,18,female,20.7
+28.8,light,moderate weight loss,59,male,20.6
+29.7,very active,extreme weight loss,51,male,24.5
+26.3,light,extreme weight loss,38,male,23.9
+29.1,sedentary,muscle cutting,38,male,19.5
+26.0,very active,moderate weight loss,42,male,23.8
+29.3,active,aggressive weight loss,58,female,23.4
+29.7,sedentary,aggressive weight loss,21,female,21.4
+28.0,light,aggressive weight loss,53,female,19.2
+27.3,very active,moderate weight loss,50,male,22.5
+27.5,light,muscle cutting,41,female,21.9
+28.3,sedentary,extreme weight loss,29,male,19.2
+29.5,active,aggressive weight loss,51,male,18.9
+29.7,sedentary,aggressive weight loss,33,female,22.5
+27.0,active,moderate weight loss,60,female,19.9
+28.1,moderate,moderate weight loss,39,male,23.2
+28.3,active,moderate weight loss,62,female,23.0
+26.1,sedentary,moderate weight loss,29,female,23.8
+29.6,light,moderate weight loss,35,male,18.8
+29.9,moderate,aggressive weight loss,42,female,19.8
+26.4,light,aggressive weight loss,48,male,22.8
+29.5,sedentary,extreme weight loss,31,male,23.9
+26.4,moderate,muscle cutting,46,female,24.2
+25.2,moderate,moderate weight loss,30,female,24.4
+28.3,moderate,extreme weight loss,50,male,19.1
+28.3,sedentary,moderate weight loss,35,female,20.9
+25.6,very active,moderate weight loss,51,female,22.2
+29.8,light,moderate weight loss,40,male,22.8
+25.1,sedentary,aggressive weight loss,54,male,21.4
+28.7,active,moderate weight loss,26,female,22.6
+27.9,very active,extreme weight loss,39,male,19.0
+29.0,sedentary,muscle cutting,21,male,23.3
+28.3,moderate,aggressive weight loss,24,male,21.6
+28.0,sedentary,aggressive weight loss,26,female,23.5
+26.4,light,aggressive weight loss,33,male,22.6
+26.7,very active,extreme weight loss,63,female,23.4
+27.6,light,aggressive weight loss,48,male,21.8
+29.7,moderate,extreme weight loss,24,female,19.0
+28.0,very active,aggressive weight loss,56,female,21.6
+28.7,sedentary,moderate weight loss,27,female,20.5
+29.3,active,extreme weight loss,32,male,20.1
+28.3,light,muscle cutting,53,male,21.2
+26.4,very active,aggressive weight loss,44,male,24.9
+26.7,active,extreme weight loss,64,female,18.8
+28.7,sedentary,moderate weight loss,30,female,21.9
+27.1,light,muscle cutting,48,male,20.3
+25.7,light,moderate weight loss,30,male,22.9
+27.7,very active,aggressive weight loss,57,female,24.5
+25.5,moderate,extreme weight loss,25,female,21.2
+25.7,light,aggressive weight loss,33,male,18.5
+28.1,moderate,extreme weight loss,45,female,24.4
+25.4,very active,muscle cutting,43,male,22.4
+26.5,sedentary,aggressive weight loss,42,female,21.5
+28.6,sedentary,muscle cutting,29,male,20.4
+29.0,sedentary,aggressive weight loss,63,female,24.2
+29.7,light,muscle cutting,33,male,22.4
+25.4,moderate,muscle cutting,24,male,22.2
+27.6,moderate,moderate weight loss,30,male,23.5
+26.7,sedentary,moderate weight loss,22,female,21.5
+26.1,very active,extreme weight loss,63,male,23.3
+27.1,active,moderate weight loss,61,female,24.5
+26.4,moderate,aggressive weight loss,39,male,20.4
+25.1,moderate,moderate weight loss,50,female,22.2
+28.0,sedentary,extreme weight loss,45,female,24.5
+29.2,sedentary,muscle cutting,41,male,22.9
+29.8,active,moderate weight loss,54,male,20.5
+28.5,active,extreme weight loss,52,female,24.0
+26.1,active,aggressive weight loss,50,male,18.9
+26.1,active,aggressive weight loss,50,male,21.8
+29.4,light,moderate weight loss,51,male,22.1
+28.5,moderate,aggressive weight loss,29,male,22.1
+25.9,active,moderate weight loss,49,female,21.3
+27.0,very active,extreme weight loss,64,male,19.8
+26.0,sedentary,aggressive weight loss,31,male,24.3
+27.8,moderate,extreme weight loss,19,female,21.3
+29.0,moderate,aggressive weight loss,33,female,22.4
+25.6,light,moderate weight loss,24,male,18.6
+29.1,very active,aggressive weight loss,59,female,21.8
+27.0,moderate,extreme weight loss,48,female,22.7
+25.1,sedentary,aggressive weight loss,45,female,22.2
+25.9,active,extreme weight loss,26,male,21.3
+27.9,sedentary,muscle cutting,20,male,23.5
+27.6,light,muscle cutting,39,female,22.0
+26.9,light,extreme weight loss,43,male,21.2
+27.5,very active,aggressive weight loss,52,female,22.1
+26.9,very active,muscle cutting,58,male,24.5
+28.9,moderate,muscle cutting,56,male,21.3
+29.8,very active,muscle cutting,52,female,21.1
+26.6,very active,extreme weight loss,61,male,23.5
+29.9,sedentary,extreme weight loss,40,female,19.3
+27.4,moderate,extreme weight loss,32,male,24.1
+28.3,sedentary,moderate weight loss,43,male,22.4
+27.3,sedentary,extreme weight loss,29,male,22.6
+25.9,moderate,moderate weight loss,53,male,19.0
+29.2,sedentary,muscle cutting,31,female,24.0
+28.8,sedentary,extreme weight loss,36,male,22.3
+26.7,light,aggressive weight loss,58,male,24.9
+25.8,active,moderate weight loss,47,female,20.9
+28.6,very active,aggressive weight loss,53,male,24.5
+25.3,moderate,aggressive weight loss,33,female,22.4
+29.3,moderate,aggressive weight loss,24,female,24.9
+26.5,active,muscle cutting,46,female,19.3
+25.2,very active,aggressive weight loss,36,female,20.3
+26.1,very active,aggressive weight loss,20,male,19.0
+25.2,sedentary,moderate weight loss,26,male,24.4
+25.1,very active,moderate weight loss,52,male,20.2
+27.2,light,moderate weight loss,46,male,20.5
+26.5,sedentary,aggressive weight loss,39,male,22.7
+26.3,sedentary,aggressive weight loss,51,male,20.5
+26.0,sedentary,aggressive weight loss,37,male,21.4
+28.5,very active,moderate weight loss,43,female,22.9
+27.8,active,moderate weight loss,19,female,20.8
+28.3,active,moderate weight loss,30,female,18.9
+26.1,light,aggressive weight loss,48,female,22.8
+27.2,light,extreme weight loss,20,female,24.2
+28.9,active,extreme weight loss,63,female,21.1
+29.0,moderate,muscle cutting,61,female,20.0
+26.9,sedentary,extreme weight loss,38,female,23.6
+28.8,light,extreme weight loss,29,male,20.2
+29.8,light,aggressive weight loss,32,male,20.2
+27.2,moderate,moderate weight loss,25,female,19.1
+25.7,sedentary,moderate weight loss,49,male,19.3
+28.4,sedentary,extreme weight loss,23,female,23.6
+26.1,active,extreme weight loss,40,female,21.6
+26.3,moderate,moderate weight loss,54,female,24.6
+25.1,sedentary,muscle cutting,34,female,21.6
+27.8,light,moderate weight loss,43,female,21.3
+28.4,light,aggressive weight loss,32,female,23.8
+26.8,moderate,moderate weight loss,26,female,21.6
+25.5,moderate,moderate weight loss,48,female,22.9
+25.3,very active,muscle cutting,46,female,24.2
+25.7,moderate,muscle cutting,27,male,20.5
+28.7,active,extreme weight loss,43,female,19.2
+28.7,moderate,muscle cutting,45,male,21.0
+29.7,active,aggressive weight loss,43,male,21.2
+28.4,moderate,aggressive weight loss,34,female,19.3
+27.0,sedentary,muscle cutting,36,female,20.3
+27.9,very active,moderate weight loss,28,male,23.6
+28.2,very active,extreme weight loss,43,male,20.3
+29.3,sedentary,muscle cutting,19,female,20.0
+29.8,very active,extreme weight loss,21,male,20.9
+29.7,light,muscle cutting,59,male,21.9
+28.4,sedentary,moderate weight loss,23,male,22.6
+26.5,sedentary,extreme weight loss,21,female,23.5
+29.4,moderate,muscle cutting,52,female,19.2
+29.3,moderate,moderate weight loss,36,female,19.3
+27.4,sedentary,extreme weight loss,47,male,23.1
+25.1,moderate,moderate weight loss,18,female,23.7
+28.2,moderate,extreme weight loss,23,male,19.8
+26.2,very active,muscle cutting,42,male,23.2
+25.0,moderate,moderate weight loss,27,female,19.5
+29.9,sedentary,moderate weight loss,27,male,21.9
+29.3,very active,aggressive weight loss,43,male,21.0
+26.7,very active,moderate weight loss,49,female,23.3
+27.8,moderate,extreme weight loss,50,female,22.9
+25.5,light,aggressive weight loss,34,female,21.1
+29.6,light,muscle cutting,37,male,21.5
+28.7,active,muscle cutting,34,female,18.6
+27.5,light,extreme weight loss,29,male,22.1
+28.6,light,extreme weight loss,62,male,24.1
+26.7,sedentary,aggressive weight loss,32,female,19.6
+27.1,very active,extreme weight loss,46,female,18.5
+25.5,moderate,aggressive weight loss,22,female,22.0
+28.1,sedentary,aggressive weight loss,41,female,19.5
+27.0,very active,extreme weight loss,54,male,20.6
+27.9,active,extreme weight loss,45,female,24.3
+28.5,active,moderate weight loss,43,female,19.8
+26.2,sedentary,muscle cutting,48,male,24.8
+28.7,active,extreme weight loss,27,male,18.6
+28.0,sedentary,extreme weight loss,31,male,21.6
+25.3,sedentary,muscle cutting,27,male,22.3
+25.2,very active,moderate weight loss,51,male,19.4
+26.1,moderate,extreme weight loss,23,female,18.7
+28.9,very active,aggressive weight loss,59,male,19.3
+29.4,active,aggressive weight loss,53,female,21.4
+25.5,active,muscle cutting,52,male,21.8
+28.2,sedentary,moderate weight loss,56,female,18.7
+26.3,very active,muscle cutting,18,female,23.0
+28.7,moderate,extreme weight loss,40,female,24.9
+29.8,light,aggressive weight loss,20,female,22.6
+29.6,sedentary,extreme weight loss,61,male,20.9
+27.4,sedentary,aggressive weight loss,54,female,19.3
+26.0,active,moderate weight loss,53,female,22.8
+27.3,very active,aggressive weight loss,62,female,23.3
+28.9,moderate,moderate weight loss,38,male,21.5
+27.8,very active,extreme weight loss,33,male,19.5
+25.1,active,muscle cutting,24,female,24.1
+28.2,moderate,muscle cutting,26,female,23.8
+27.7,moderate,extreme weight loss,58,male,19.8
+27.3,sedentary,muscle cutting,41,male,21.9
+26.8,very active,moderate weight loss,21,female,18.6
+28.2,sedentary,aggressive weight loss,24,female,24.7
+25.3,sedentary,extreme weight loss,35,male,21.5
+27.3,moderate,extreme weight loss,41,male,20.4
+25.8,very active,moderate weight loss,41,male,20.7
+25.3,active,aggressive weight loss,61,female,23.8
+26.6,moderate,aggressive weight loss,24,male,22.3
+25.4,active,extreme weight loss,26,female,24.6
+28.5,moderate,moderate weight loss,41,female,22.3
+29.7,light,extreme weight loss,62,male,21.7
+27.6,active,aggressive weight loss,24,male,21.4
+26.2,moderate,moderate weight loss,21,male,21.8
+29.9,moderate,muscle cutting,43,female,23.4
+29.3,moderate,muscle cutting,58,male,20.5
+26.9,active,muscle cutting,43,male,21.5
+27.1,moderate,extreme weight loss,22,male,23.5
+26.5,moderate,moderate weight loss,25,male,19.3
+29.2,very active,extreme weight loss,53,female,24.7
+28.6,moderate,moderate weight loss,62,male,22.8
+27.7,active,aggressive weight loss,50,female,20.2
+29.8,sedentary,muscle cutting,35,male,20.5
+29.4,moderate,extreme weight loss,30,male,22.6
+29.5,light,extreme weight loss,41,male,23.2
+26.0,very active,extreme weight loss,57,male,23.3
+27.6,very active,aggressive weight loss,56,male,22.6
+27.5,sedentary,muscle cutting,35,female,20.4
+27.2,moderate,moderate weight loss,47,female,19.6
+27.6,very active,aggressive weight loss,62,male,23.5
+25.5,active,moderate weight loss,44,female,21.2
+25.7,sedentary,aggressive weight loss,29,female,23.4
+29.0,very active,moderate weight loss,44,male,19.4
+29.8,very active,moderate weight loss,24,male,24.9
+26.5,light,aggressive weight loss,46,male,21.2
+28.6,very active,muscle cutting,39,female,18.5
+26.4,light,extreme weight loss,24,female,19.7
+25.2,very active,moderate weight loss,38,female,19.5
+26.3,very active,extreme weight loss,29,female,20.8
+28.9,light,aggressive weight loss,25,male,22.7
+27.6,very active,muscle cutting,42,male,21.0
+25.5,moderate,moderate weight loss,54,male,21.0
+25.7,active,moderate weight loss,37,female,19.6
+29.3,very active,aggressive weight loss,47,female,22.2
+28.2,active,extreme weight loss,63,male,21.0
+26.9,very active,moderate weight loss,60,female,19.1
+25.3,light,muscle cutting,33,male,19.6
+26.7,very active,moderate weight loss,26,male,20.3
+28.4,moderate,extreme weight loss,59,female,23.6
+29.4,sedentary,muscle cutting,33,male,21.4
+26.9,light,aggressive weight loss,20,female,20.3
+25.3,light,muscle cutting,22,male,22.8
+25.3,moderate,extreme weight loss,26,female,20.2
+26.1,light,moderate weight loss,58,male,21.5
+27.6,active,extreme weight loss,55,female,20.5
+27.9,very active,extreme weight loss,28,male,22.7
+25.3,sedentary,extreme weight loss,64,female,20.8
+27.4,light,muscle cutting,61,male,23.3
+27.0,sedentary,muscle cutting,27,female,22.9
+26.8,very active,moderate weight loss,19,female,20.6
+29.4,active,aggressive weight loss,44,male,21.0
+25.1,sedentary,muscle cutting,60,female,19.5
+27.5,active,muscle cutting,51,female,23.9
+26.4,moderate,aggressive weight loss,64,female,24.0
+26.1,very active,aggressive weight loss,52,male,18.7
+27.7,moderate,extreme weight loss,28,male,24.6
+26.8,very active,muscle cutting,30,male,20.9
+27.6,very active,muscle cutting,24,male,21.4
+28.5,moderate,muscle cutting,61,female,19.9
+27.9,very active,muscle cutting,43,female,20.9
+29.7,moderate,aggressive weight loss,36,male,21.6
+29.4,light,extreme weight loss,55,male,24.5
+25.9,moderate,muscle cutting,43,female,20.1
+27.5,moderate,extreme weight loss,33,male,22.0
+25.7,active,extreme weight loss,54,male,23.0
+25.0,moderate,muscle cutting,32,male,23.7
+26.7,active,aggressive weight loss,39,male,22.2
+26.1,active,aggressive weight loss,57,male,19.7
+26.3,light,aggressive weight loss,34,female,18.6
+29.7,active,muscle cutting,52,male,22.3
+29.5,sedentary,moderate weight loss,39,female,23.8
+27.5,moderate,muscle cutting,54,female,23.3
+27.5,very active,extreme weight loss,59,male,23.1
+29.1,very active,muscle cutting,54,female,21.9
+27.4,very active,aggressive weight loss,48,female,20.5
+26.9,active,extreme weight loss,41,female,24.0
+28.2,moderate,muscle cutting,27,female,21.2
+27.5,sedentary,extreme weight loss,31,female,24.8
+27.2,very active,moderate weight loss,64,female,19.3
+25.8,light,moderate weight loss,29,female,20.3
+28.0,very active,extreme weight loss,64,male,23.4
+28.0,sedentary,aggressive weight loss,45,male,19.8
+26.8,sedentary,aggressive weight loss,56,male,19.9
+25.6,sedentary,muscle cutting,43,male,23.7
+28.9,very active,moderate weight loss,63,male,23.6
+25.8,moderate,aggressive weight loss,39,female,20.1
+27.6,light,moderate weight loss,26,female,23.0
+28.8,light,aggressive weight loss,43,male,20.7
+28.2,very active,aggressive weight loss,52,male,22.1
+25.4,very active,muscle cutting,34,female,22.8
+25.7,active,muscle cutting,19,female,23.1
+27.5,very active,moderate weight loss,36,female,19.3
+26.3,light,aggressive weight loss,63,female,21.6
+29.1,very active,moderate weight loss,57,female,21.2
+25.6,moderate,aggressive weight loss,31,female,19.8
+28.2,very active,extreme weight loss,53,male,23.0
+27.8,very active,muscle cutting,39,female,20.7
+25.6,light,muscle cutting,28,female,19.0
+26.6,sedentary,moderate weight loss,29,female,21.0
+28.5,very active,extreme weight loss,30,male,21.8
+28.9,sedentary,muscle cutting,30,female,23.5
+27.7,light,muscle cutting,53,female,18.6
+25.9,sedentary,muscle cutting,38,female,21.8
+29.5,sedentary,moderate weight loss,41,female,21.5
+27.2,very active,extreme weight loss,45,female,24.9
+28.0,light,aggressive weight loss,57,female,21.7
+28.0,very active,extreme weight loss,25,male,18.6
+27.2,light,extreme weight loss,30,female,22.9
+28.3,moderate,aggressive weight loss,28,male,18.5
+28.9,very active,aggressive weight loss,62,female,24.4
+29.6,active,aggressive weight loss,55,female,24.4
+28.4,active,aggressive weight loss,51,male,20.5
+29.8,active,moderate weight loss,58,female,21.7
+27.8,active,moderate weight loss,19,male,19.0
+26.7,light,extreme weight loss,31,female,18.6
+28.4,light,aggressive weight loss,19,male,19.2
+28.8,light,muscle cutting,57,female,24.1
+27.4,active,moderate weight loss,30,male,21.8
+25.5,moderate,moderate weight loss,42,female,24.0
+27.5,light,extreme weight loss,31,female,23.1
+29.2,moderate,muscle cutting,30,female,20.8
+28.6,light,aggressive weight loss,57,female,19.2
+29.4,light,muscle cutting,32,female,21.0
+26.9,very active,extreme weight loss,39,male,24.0
+29.6,active,moderate weight loss,33,female,20.1
+29.0,very active,moderate weight loss,21,female,18.5
+28.2,light,aggressive weight loss,40,female,23.9
+26.3,sedentary,extreme weight loss,42,male,21.8
+28.2,moderate,extreme weight loss,21,male,22.3
+28.0,very active,muscle cutting,50,male,21.0
+28.4,very active,extreme weight loss,25,female,22.6
+26.3,light,extreme weight loss,48,female,23.4
+26.8,moderate,muscle cutting,49,female,23.0
+27.5,very active,extreme weight loss,21,male,21.4
+28.1,very active,moderate weight loss,62,male,19.1
+26.8,very active,aggressive weight loss,32,female,22.1
+28.6,light,aggressive weight loss,34,female,21.3
+26.5,moderate,moderate weight loss,40,male,22.2
+26.4,sedentary,extreme weight loss,50,male,20.8
+26.2,moderate,aggressive weight loss,50,female,19.0
+25.2,moderate,extreme weight loss,45,male,22.7
+27.6,moderate,moderate weight loss,51,female,19.1
+29.0,very active,extreme weight loss,43,female,20.9
+26.8,active,aggressive weight loss,62,female,23.8
+25.5,very active,muscle cutting,27,male,23.9
+25.7,light,aggressive weight loss,61,male,20.5
+25.1,active,muscle cutting,43,female,21.0
+29.5,moderate,aggressive weight loss,31,female,20.5
+27.8,light,muscle cutting,55,male,24.6
+26.1,very active,muscle cutting,45,female,19.8
+27.5,light,aggressive weight loss,30,female,21.5
+25.1,light,moderate weight loss,44,male,19.3
+27.1,light,muscle cutting,29,male,21.8
+25.2,very active,extreme weight loss,55,female,24.5
+28.9,light,moderate weight loss,22,male,23.3
+27.0,moderate,moderate weight loss,41,female,24.8
+25.2,light,muscle cutting,57,male,19.2
+25.6,sedentary,extreme weight loss,40,female,21.4
+26.9,active,extreme weight loss,52,male,22.2
+28.5,light,muscle cutting,34,male,19.4
+29.0,very active,muscle cutting,46,female,19.9
+27.6,sedentary,extreme weight loss,41,female,21.5
+27.0,active,extreme weight loss,19,male,22.6
+27.3,very active,muscle cutting,18,female,22.7
+29.7,moderate,aggressive weight loss,37,male,21.2
+26.2,active,aggressive weight loss,63,female,23.3
+27.7,light,muscle cutting,46,male,22.7
+28.0,light,aggressive weight loss,22,female,21.1
+27.5,moderate,muscle cutting,48,female,23.2
+27.0,light,extreme weight loss,59,female,21.1
+28.1,active,moderate weight loss,61,male,23.7
+28.2,sedentary,moderate weight loss,54,female,19.8
+29.5,moderate,aggressive weight loss,57,male,22.6
+29.7,sedentary,extreme weight loss,60,female,23.8
+26.3,very active,muscle cutting,45,female,20.3
+25.4,moderate,moderate weight loss,43,male,20.3
+28.9,moderate,moderate weight loss,26,male,22.1
+25.8,light,moderate weight loss,30,male,19.7
+26.5,active,muscle cutting,27,female,24.8
+27.4,active,aggressive weight loss,20,female,19.8
+27.8,active,aggressive weight loss,31,male,24.6
+27.0,moderate,aggressive weight loss,39,male,19.5
+26.8,light,moderate weight loss,50,male,20.0
+25.0,moderate,muscle cutting,55,female,22.5
+27.2,very active,muscle cutting,59,male,20.1
+26.9,active,aggressive weight loss,60,male,20.4
+27.5,active,extreme weight loss,58,male,21.8
+27.3,active,extreme weight loss,20,female,19.3
+28.9,active,extreme weight loss,49,female,19.5
+25.6,light,moderate weight loss,39,male,21.2
+27.5,light,extreme weight loss,63,male,19.4
+26.0,active,muscle cutting,40,male,20.5
+29.3,moderate,aggressive weight loss,37,female,19.9
+25.8,active,extreme weight loss,46,male,23.5
+27.1,sedentary,muscle cutting,36,male,20.6
+27.8,light,aggressive weight loss,43,female,24.6
+27.6,very active,muscle cutting,58,female,22.7
+26.4,active,aggressive weight loss,33,male,22.0
+27.5,sedentary,muscle cutting,27,male,23.8
+28.6,active,muscle cutting,59,male,22.4
+26.1,light,moderate weight loss,38,female,21.8
+29.6,very active,aggressive weight loss,55,male,24.3
+29.6,active,moderate weight loss,48,male,19.1
+29.1,very active,aggressive weight loss,49,female,21.7
+26.2,sedentary,extreme weight loss,60,female,23.2
+26.3,moderate,moderate weight loss,42,female,20.7
+27.7,sedentary,muscle cutting,62,male,19.1
+26.2,light,moderate weight loss,35,male,22.4
+25.9,moderate,extreme weight loss,31,female,24.5
+29.0,sedentary,extreme weight loss,44,male,23.0
+25.7,very active,muscle cutting,23,female,20.9
+28.4,very active,extreme weight loss,42,male,20.7
+28.7,moderate,extreme weight loss,53,female,18.9
+29.2,moderate,muscle cutting,28,female,22.7
+26.1,light,muscle cutting,26,female,23.8
+27.9,light,moderate weight loss,59,male,19.6
+25.6,very active,muscle cutting,41,female,22.0
+25.3,light,aggressive weight loss,49,female,23.6
+27.8,light,extreme weight loss,57,male,23.5
+28.8,active,extreme weight loss,63,male,21.7
+29.3,sedentary,extreme weight loss,44,male,20.4
+27.8,light,extreme weight loss,24,female,20.9
+29.0,light,extreme weight loss,38,male,22.8
+27.8,sedentary,extreme weight loss,39,male,23.1
+25.0,sedentary,muscle cutting,41,male,18.6
+25.1,moderate,extreme weight loss,45,male,22.9
+26.5,sedentary,moderate weight loss,53,male,19.6
+27.9,sedentary,muscle cutting,59,male,19.1
+27.3,moderate,aggressive weight loss,33,female,19.0
+27.6,very active,muscle cutting,24,female,21.8
+27.9,sedentary,moderate weight loss,38,female,21.1
+27.7,very active,aggressive weight loss,56,male,18.9
+28.4,sedentary,muscle cutting,62,female,20.4
+28.6,light,extreme weight loss,31,female,20.0
+26.9,active,moderate weight loss,49,female,21.5
+25.7,sedentary,muscle cutting,25,female,19.5
+26.4,active,moderate weight loss,27,male,21.3
+29.0,sedentary,extreme weight loss,59,female,20.5
+25.1,active,aggressive weight loss,21,male,23.2
+29.7,active,moderate weight loss,62,male,24.4
+26.6,sedentary,extreme weight loss,55,male,23.1
+29.0,moderate,moderate weight loss,26,female,24.8
+25.5,active,aggressive weight loss,26,male,19.2
+28.7,sedentary,aggressive weight loss,24,female,19.2
+25.5,active,muscle cutting,64,male,20.8
+25.8,very active,moderate weight loss,56,female,23.8
+27.1,very active,muscle cutting,54,male,24.6
+28.6,active,moderate weight loss,54,female,22.1
+27.3,light,moderate weight loss,55,male,19.1
+25.8,very active,muscle cutting,35,male,22.0
+29.0,active,aggressive weight loss,46,female,19.9
+26.4,active,aggressive weight loss,30,female,19.9
+29.7,very active,aggressive weight loss,45,male,23.8
+29.4,very active,moderate weight loss,51,male,19.1
+29.7,very active,extreme weight loss,28,female,19.5
+25.1,sedentary,extreme weight loss,20,male,22.4
+25.9,active,muscle cutting,35,female,20.7
+25.5,light,aggressive weight loss,29,female,19.4
+25.5,moderate,aggressive weight loss,47,female,23.0
+28.2,light,muscle cutting,47,female,23.8
+28.4,active,muscle cutting,48,female,22.3
+27.6,active,aggressive weight loss,50,female,20.9
+29.4,moderate,extreme weight loss,18,male,21.7
+25.8,active,muscle cutting,39,female,19.8
+28.5,light,extreme weight loss,38,female,23.3
+27.7,very active,moderate weight loss,35,female,19.4
+28.9,active,aggressive weight loss,41,female,19.7
+28.2,light,moderate weight loss,55,male,21.4
+25.8,very active,aggressive weight loss,27,female,24.4
+25.9,active,extreme weight loss,41,male,24.3
+26.1,sedentary,moderate weight loss,32,female,21.6
+25.1,light,muscle cutting,62,female,20.1
+27.0,moderate,moderate weight loss,51,male,21.4
+28.5,light,moderate weight loss,41,male,20.4
+27.1,moderate,muscle cutting,30,male,20.3
+26.9,sedentary,extreme weight loss,21,male,20.6
+29.7,light,extreme weight loss,19,male,23.9
+29.5,very active,extreme weight loss,55,male,20.3
+28.0,moderate,muscle cutting,41,male,23.6
+28.3,light,moderate weight loss,52,male,19.1
+29.8,very active,extreme weight loss,50,female,20.5
+29.7,very active,muscle cutting,43,male,21.6
+29.6,light,extreme weight loss,19,female,19.8
+27.7,moderate,extreme weight loss,58,female,20.1
+26.5,very active,muscle cutting,44,male,23.3
+28.5,moderate,aggressive weight loss,62,male,23.5
+26.9,very active,muscle cutting,19,male,19.5
+27.5,active,aggressive weight loss,48,male,22.3
+28.5,active,muscle cutting,30,male,19.0
+27.2,moderate,moderate weight loss,43,female,20.3
+29.7,very active,extreme weight loss,31,male,21.3
+26.0,active,muscle cutting,60,male,24.3
+29.0,very active,muscle cutting,28,male,23.5
+26.7,active,moderate weight loss,63,female,19.6
+27.4,sedentary,moderate weight loss,55,female,19.4
+26.1,very active,aggressive weight loss,38,male,21.6
+26.3,moderate,muscle cutting,31,male,19.6
+27.3,very active,muscle cutting,63,male,23.1
+29.7,sedentary,aggressive weight loss,23,female,23.8
+25.6,moderate,extreme weight loss,61,female,19.4
+28.8,light,muscle cutting,40,male,23.3
+25.1,active,muscle cutting,61,male,20.5
+28.4,light,muscle cutting,31,male,20.2
+28.1,active,moderate weight loss,21,female,24.5
+27.4,active,aggressive weight loss,29,male,23.4
+26.2,sedentary,moderate weight loss,26,male,24.8
+25.7,sedentary,extreme weight loss,19,male,24.7
+26.1,very active,muscle cutting,56,male,22.6
+27.3,light,moderate weight loss,36,male,23.8
+27.3,active,moderate weight loss,53,male,21.9
+29.4,active,moderate weight loss,45,female,18.8
+28.8,moderate,muscle cutting,49,male,19.1
+25.1,very active,muscle cutting,19,female,20.1
+26.3,active,moderate weight loss,22,male,21.8
+25.7,sedentary,aggressive weight loss,41,female,20.0
+27.3,sedentary,aggressive weight loss,52,male,20.5
+26.3,light,extreme weight loss,53,female,22.3
+29.1,moderate,muscle cutting,59,male,20.1
+28.4,moderate,aggressive weight loss,21,female,22.3
+26.7,light,moderate weight loss,33,male,22.6
+27.4,light,aggressive weight loss,61,male,23.6
+28.8,active,moderate weight loss,22,female,22.7
+29.5,very active,moderate weight loss,33,male,18.8
+26.8,moderate,extreme weight loss,63,female,19.3
+29.0,active,moderate weight loss,34,male,22.9
+26.8,light,muscle cutting,24,male,22.3
+29.8,very active,aggressive weight loss,19,female,18.9
+26.6,very active,moderate weight loss,50,female,19.5
+29.6,sedentary,moderate weight loss,31,male,23.7
+26.0,moderate,muscle cutting,35,male,24.3
+26.3,light,muscle cutting,30,male,19.8
+25.3,sedentary,muscle cutting,19,female,20.9
+27.1,very active,muscle cutting,57,male,22.1
+28.3,active,extreme weight loss,40,female,24.2
+28.5,light,extreme weight loss,45,female,19.0
+28.6,light,moderate weight loss,26,female,19.1
+29.1,active,moderate weight loss,64,female,18.8
+25.7,sedentary,muscle cutting,55,male,22.1
+29.1,active,muscle cutting,40,male,18.5
+25.6,sedentary,aggressive weight loss,51,female,23.3
+25.6,moderate,extreme weight loss,49,male,19.9
+29.3,very active,moderate weight loss,44,male,22.4
+27.8,sedentary,moderate weight loss,48,female,22.6
+29.0,light,extreme weight loss,40,male,19.2
+28.9,very active,aggressive weight loss,34,female,22.5
+25.3,active,moderate weight loss,37,male,18.6
+27.1,light,muscle cutting,19,male,19.4
+27.5,light,muscle cutting,59,female,22.8
+27.2,light,moderate weight loss,40,male,20.5
+28.9,light,moderate weight loss,44,female,24.8
+29.2,active,muscle cutting,62,female,18.5
+25.5,very active,aggressive weight loss,28,female,23.3
+29.8,sedentary,moderate weight loss,24,female,24.6
+27.3,moderate,muscle cutting,41,female,21.0
+28.3,sedentary,extreme weight loss,52,female,21.3
+27.3,sedentary,extreme weight loss,47,male,22.8
+27.3,active,moderate weight loss,34,female,23.7
+29.4,very active,moderate weight loss,57,male,24.6
+26.8,very active,muscle cutting,31,male,20.6
+27.3,sedentary,aggressive weight loss,34,male,24.0
+28.7,moderate,aggressive weight loss,21,male,23.4
+29.5,moderate,extreme weight loss,28,female,20.6
+25.0,very active,aggressive weight loss,47,female,20.0
+25.9,active,muscle cutting,51,male,18.7
+25.7,active,extreme weight loss,39,female,24.3
+25.0,light,moderate weight loss,50,female,24.8
+26.7,sedentary,muscle cutting,47,male,24.2
+25.5,active,moderate weight loss,20,female,24.4
+27.7,moderate,aggressive weight loss,25,male,23.4
+25.0,active,moderate weight loss,33,male,23.3
+27.3,very active,muscle cutting,41,female,24.3
+27.3,light,extreme weight loss,34,male,21.4
+26.3,very active,aggressive weight loss,25,male,18.7
+25.7,active,moderate weight loss,37,female,22.7
+29.4,very active,moderate weight loss,23,female,23.7
+26.7,active,aggressive weight loss,44,male,19.3
+25.3,light,muscle cutting,42,female,24.8
+28.2,sedentary,aggressive weight loss,37,male,21.7
+25.5,active,muscle cutting,61,male,22.7
+29.8,light,extreme weight loss,34,male,24.7
+26.2,active,extreme weight loss,51,female,19.6
+29.8,active,aggressive weight loss,64,female,20.7
+27.7,light,moderate weight loss,63,male,22.8
+27.7,moderate,moderate weight loss,31,female,20.3
+25.8,moderate,muscle cutting,38,female,19.2
+25.1,moderate,extreme weight loss,64,male,24.8
+25.7,sedentary,muscle cutting,24,female,23.9
+26.1,active,moderate weight loss,53,female,22.5
+25.1,active,aggressive weight loss,48,female,19.3
+26.5,very active,muscle cutting,30,male,20.3
+25.3,light,extreme weight loss,42,female,24.2
+26.9,very active,aggressive weight loss,41,female,24.2
+27.6,moderate,moderate weight loss,26,male,20.1
+27.2,light,muscle cutting,36,female,23.7
+27.5,sedentary,muscle cutting,32,male,18.7
+27.2,sedentary,aggressive weight loss,26,male,24.1
+27.3,moderate,moderate weight loss,32,female,21.2
+28.4,light,extreme weight loss,56,female,21.5
+26.9,active,extreme weight loss,64,female,20.9
+25.1,very active,aggressive weight loss,38,female,21.2
+27.5,active,muscle cutting,38,male,22.9
+28.6,moderate,extreme weight loss,40,male,24.8
+28.5,active,extreme weight loss,59,female,22.3
+25.8,moderate,muscle cutting,56,male,19.8
+25.1,sedentary,aggressive weight loss,64,female,22.5
+29.4,very active,aggressive weight loss,54,female,24.2
+27.7,light,extreme weight loss,54,female,19.1
+29.3,very active,moderate weight loss,19,male,24.1
+28.3,sedentary,muscle cutting,37,female,22.4
+26.9,moderate,extreme weight loss,23,female,22.3
+27.8,light,muscle cutting,18,male,23.4
+26.3,very active,extreme weight loss,61,male,22.0
+26.6,sedentary,muscle cutting,27,male,20.2
+25.5,light,aggressive weight loss,38,male,23.9
+29.5,light,muscle cutting,26,female,23.6
+26.2,moderate,extreme weight loss,60,male,24.2
+28.3,sedentary,moderate weight loss,18,male,22.9
+29.0,very active,moderate weight loss,43,female,18.8
+26.8,moderate,aggressive weight loss,36,male,23.7
+28.5,active,aggressive weight loss,44,female,21.7
+25.2,active,muscle cutting,32,male,22.4
+29.5,very active,moderate weight loss,42,female,23.8
+27.1,moderate,extreme weight loss,23,male,19.1
+26.6,light,moderate weight loss,52,male,22.8
+29.3,moderate,muscle cutting,20,female,20.8
+29.9,sedentary,aggressive weight loss,61,male,20.2
+39.1,active,extreme weight loss,26,male,20.5
+39.5,moderate,extreme weight loss,25,female,18.8
+30.8,very active,extreme weight loss,31,female,23.6
+34.2,active,high-intensity cardio,43,female,23.5
+38.1,active,aggressive weight loss,35,female,20.4
+36.1,light,high-intensity cardio,64,female,20.8
+37.9,active,high-intensity cardio,47,female,20.1
+31.3,sedentary,extreme weight loss,53,female,22.1
+39.8,light,extreme weight loss,48,female,24.1
+35.3,active,high-intensity cardio,31,female,19.8
+34.7,very active,extreme weight loss,43,female,20.5
+31.0,moderate,high-intensity cardio,52,female,22.6
+33.8,light,aggressive weight loss,45,female,20.6
+33.4,very active,high-intensity cardio,50,female,23.7
+35.0,moderate,high-intensity cardio,64,male,21.5
+31.8,light,high-intensity cardio,29,female,21.8
+37.9,sedentary,high-intensity cardio,38,male,23.0
+31.9,very active,aggressive weight loss,61,female,19.3
+32.5,very active,extreme weight loss,38,female,21.7
+39.5,moderate,aggressive weight loss,41,female,23.9
+35.0,sedentary,extreme weight loss,61,male,21.6
+31.6,light,high-intensity cardio,48,female,19.8
+32.7,light,high-intensity cardio,58,male,22.3
+35.6,sedentary,aggressive weight loss,19,female,24.6
+30.8,moderate,extreme weight loss,52,male,21.2
+34.5,very active,aggressive weight loss,55,male,22.3
+33.2,light,aggressive weight loss,21,female,23.9
+38.9,moderate,aggressive weight loss,51,female,24.9
+33.6,light,high-intensity cardio,53,male,20.3
+38.2,moderate,extreme weight loss,51,female,24.5
+32.7,moderate,aggressive weight loss,63,male,23.1
+30.5,active,high-intensity cardio,62,male,18.5
+39.0,light,extreme weight loss,30,female,23.7
+33.7,sedentary,high-intensity cardio,30,male,18.6
+35.3,moderate,high-intensity cardio,64,female,24.7
+33.6,light,extreme weight loss,64,female,23.6
+38.1,moderate,extreme weight loss,43,male,19.3
+33.3,active,aggressive weight loss,36,male,21.7
+36.9,moderate,aggressive weight loss,47,male,23.4
+38.5,light,extreme weight loss,30,female,18.6
+31.4,sedentary,aggressive weight loss,20,female,18.7
+33.0,light,aggressive weight loss,39,female,21.8
+36.0,active,high-intensity cardio,58,male,23.6
+30.6,very active,aggressive weight loss,63,male,23.4
+36.4,sedentary,extreme weight loss,62,male,18.9
+37.8,very active,aggressive weight loss,61,female,20.6
+37.4,moderate,extreme weight loss,21,male,23.0
+31.3,moderate,high-intensity cardio,29,male,23.8
+38.9,very active,extreme weight loss,57,male,18.7
+34.0,active,aggressive weight loss,34,male,20.4
+30.9,very active,extreme weight loss,29,male,22.1
+30.7,sedentary,aggressive weight loss,20,male,19.6
+39.5,moderate,aggressive weight loss,63,female,24.0
+34.7,moderate,high-intensity cardio,53,female,19.3
+33.8,sedentary,high-intensity cardio,49,female,23.0
+31.2,light,high-intensity cardio,55,female,24.6
+30.5,sedentary,high-intensity cardio,32,male,23.0
+39.3,light,extreme weight loss,31,male,22.3
+33.0,very active,extreme weight loss,60,female,20.8
+36.5,active,high-intensity cardio,50,female,24.0
+39.9,sedentary,aggressive weight loss,54,female,21.5
+31.6,moderate,high-intensity cardio,56,female,20.6
+37.8,moderate,extreme weight loss,26,female,22.5
+30.2,active,extreme weight loss,53,female,20.6
+31.9,sedentary,aggressive weight loss,32,female,19.8
+32.1,very active,high-intensity cardio,36,male,22.7
+39.3,active,aggressive weight loss,41,female,22.3
+38.7,sedentary,high-intensity cardio,21,female,19.4
+32.9,active,high-intensity cardio,24,female,22.4
+33.0,active,extreme weight loss,63,male,23.1
+37.4,very active,extreme weight loss,45,male,19.9
+34.4,sedentary,high-intensity cardio,60,male,23.3
+34.2,sedentary,extreme weight loss,45,female,21.6
+30.7,moderate,aggressive weight loss,22,male,24.2
+39.4,sedentary,high-intensity cardio,54,male,23.8
+39.3,light,extreme weight loss,43,female,21.3
+34.7,very active,extreme weight loss,19,female,18.8
+35.9,light,extreme weight loss,26,female,19.4
+31.0,moderate,aggressive weight loss,34,female,24.3
+32.2,active,high-intensity cardio,37,female,23.3
+31.9,sedentary,aggressive weight loss,30,male,20.3
+31.4,light,extreme weight loss,25,male,24.4
+38.5,active,extreme weight loss,59,female,20.5
+39.6,very active,aggressive weight loss,29,female,19.7
+34.8,sedentary,extreme weight loss,53,female,23.2
+30.5,very active,high-intensity cardio,56,female,20.2
+35.4,light,high-intensity cardio,56,male,22.7
+37.5,sedentary,extreme weight loss,31,female,19.4
+32.9,light,extreme weight loss,18,female,19.8
+35.1,moderate,extreme weight loss,45,male,24.2
+34.6,active,high-intensity cardio,26,female,19.6
+38.5,moderate,extreme weight loss,42,male,23.3
+32.1,moderate,high-intensity cardio,34,male,23.5
+33.9,sedentary,extreme weight loss,49,female,22.4
+30.8,active,high-intensity cardio,58,male,22.7
+30.2,light,extreme weight loss,46,female,21.2
+31.5,very active,aggressive weight loss,63,male,22.6
+33.4,very active,aggressive weight loss,58,female,23.0
+37.4,active,high-intensity cardio,34,male,20.1
+31.2,light,high-intensity cardio,49,male,24.6
+35.0,active,high-intensity cardio,47,female,23.4
+30.1,active,aggressive weight loss,61,female,20.4
+34.9,very active,high-intensity cardio,26,male,20.5
+33.6,light,extreme weight loss,26,female,22.8
+39.0,very active,high-intensity cardio,26,male,24.0
+33.8,sedentary,aggressive weight loss,59,male,23.0
+36.7,active,extreme weight loss,22,male,20.1
+36.4,moderate,extreme weight loss,64,male,21.1
+36.6,moderate,extreme weight loss,20,female,18.9
+37.8,sedentary,high-intensity cardio,52,female,20.6
+32.5,moderate,high-intensity cardio,62,male,24.6
+32.0,light,extreme weight loss,21,female,21.3
+31.3,sedentary,aggressive weight loss,62,male,23.0
+31.1,very active,high-intensity cardio,20,male,24.7
+32.6,sedentary,high-intensity cardio,24,female,21.7
+34.0,light,aggressive weight loss,49,female,23.4
+35.2,active,high-intensity cardio,24,female,22.0
+36.8,light,aggressive weight loss,58,female,24.8
+36.3,very active,high-intensity cardio,22,male,23.6
+37.6,moderate,extreme weight loss,51,female,21.8
+33.4,sedentary,extreme weight loss,45,male,19.2
+39.7,very active,extreme weight loss,33,female,18.7
+30.7,sedentary,high-intensity cardio,29,female,22.5
+39.1,moderate,aggressive weight loss,61,male,20.4
+31.0,moderate,extreme weight loss,46,male,24.5
+33.9,moderate,high-intensity cardio,36,female,22.3
+32.8,light,aggressive weight loss,62,female,23.7
+36.9,active,aggressive weight loss,58,male,23.9
+34.9,sedentary,high-intensity cardio,41,male,19.3
+35.9,active,extreme weight loss,21,male,23.6
+31.6,very active,aggressive weight loss,28,male,22.6
+30.1,sedentary,high-intensity cardio,35,male,22.7
+30.8,active,extreme weight loss,61,female,19.2
+34.7,light,high-intensity cardio,61,female,24.7
+37.5,moderate,high-intensity cardio,59,male,19.9
+35.8,very active,high-intensity cardio,20,female,24.1
+35.8,very active,high-intensity cardio,19,male,21.2
+35.9,active,aggressive weight loss,59,male,24.0
+36.6,light,high-intensity cardio,19,male,20.5
+38.3,light,high-intensity cardio,60,male,20.8
+33.5,sedentary,aggressive weight loss,28,male,20.2
+38.6,light,extreme weight loss,63,female,21.1
+38.5,moderate,aggressive weight loss,37,female,20.5
+33.5,light,extreme weight loss,55,male,24.2
+37.2,sedentary,extreme weight loss,60,male,19.4
+31.6,light,extreme weight loss,63,male,24.4
+37.4,light,extreme weight loss,26,male,21.4
+38.8,active,high-intensity cardio,44,female,20.8
+38.7,very active,high-intensity cardio,44,female,22.8
+38.5,sedentary,high-intensity cardio,49,female,21.6
+39.3,moderate,high-intensity cardio,23,male,23.0
+35.3,light,high-intensity cardio,48,male,19.4
+39.5,moderate,extreme weight loss,20,female,22.6
+33.6,very active,extreme weight loss,32,male,21.8
+38.7,active,aggressive weight loss,49,female,24.4
+34.0,light,high-intensity cardio,48,female,24.6
+39.1,very active,aggressive weight loss,19,female,21.6
+31.5,moderate,high-intensity cardio,18,male,21.5
+30.2,active,extreme weight loss,30,female,21.2
+32.7,active,high-intensity cardio,55,male,22.5
+38.9,very active,aggressive weight loss,51,male,20.2
+37.1,sedentary,extreme weight loss,32,female,18.8
+31.7,very active,aggressive weight loss,22,female,18.6
+31.3,active,aggressive weight loss,40,female,22.3
+31.7,sedentary,extreme weight loss,39,male,23.1
+30.3,sedentary,aggressive weight loss,38,male,19.1
+35.1,very active,high-intensity cardio,19,female,21.9
+34.4,light,high-intensity cardio,26,male,23.6
+31.3,active,high-intensity cardio,30,male,23.7
+33.8,active,aggressive weight loss,57,male,22.5
+35.6,sedentary,aggressive weight loss,24,male,21.4
+37.3,moderate,high-intensity cardio,41,female,21.5
+35.9,moderate,high-intensity cardio,21,female,18.6
+30.7,sedentary,high-intensity cardio,23,male,18.8
+31.0,moderate,extreme weight loss,50,female,23.6
+36.4,active,high-intensity cardio,22,female,19.8
+35.7,active,aggressive weight loss,49,female,24.1
+37.5,active,aggressive weight loss,64,female,21.3
+33.7,very active,high-intensity cardio,23,male,22.6
+34.0,sedentary,extreme weight loss,51,female,21.4
+37.4,active,aggressive weight loss,19,female,24.6
+39.0,light,high-intensity cardio,23,male,22.9
+31.2,very active,high-intensity cardio,49,male,19.8
+34.7,sedentary,aggressive weight loss,33,female,20.7
+37.4,moderate,high-intensity cardio,22,male,21.3
+37.6,active,aggressive weight loss,53,female,18.8
+35.8,moderate,extreme weight loss,57,female,24.3
+35.3,very active,high-intensity cardio,32,female,18.9
+34.2,active,extreme weight loss,63,female,22.5
+35.9,moderate,extreme weight loss,33,male,20.9
+31.7,sedentary,aggressive weight loss,56,female,20.6
+33.8,moderate,high-intensity cardio,47,female,20.6
+32.8,light,extreme weight loss,61,male,22.6
+32.1,sedentary,extreme weight loss,64,female,22.5
+37.4,light,aggressive weight loss,22,female,23.5
+37.6,very active,high-intensity cardio,23,male,24.8
+32.6,active,extreme weight loss,29,female,19.3
+30.4,very active,high-intensity cardio,34,female,20.3
+36.7,moderate,aggressive weight loss,43,male,21.2
+39.2,light,aggressive weight loss,25,male,21.1
+30.1,light,high-intensity cardio,18,male,22.6
+38.3,moderate,high-intensity cardio,54,male,22.1
+34.6,moderate,extreme weight loss,20,female,22.0
+38.7,moderate,high-intensity cardio,30,male,19.6
+33.2,moderate,extreme weight loss,63,female,24.7
+36.0,sedentary,aggressive weight loss,34,female,24.7
+30.0,very active,aggressive weight loss,42,female,24.3
+38.3,moderate,aggressive weight loss,36,female,21.1
+33.4,active,high-intensity cardio,61,male,20.1
+33.2,very active,extreme weight loss,33,female,22.6
+36.6,moderate,aggressive weight loss,52,male,20.1
+32.4,light,extreme weight loss,63,female,23.4
+38.9,light,extreme weight loss,56,female,22.6
+33.4,moderate,extreme weight loss,38,female,21.3
+35.5,very active,high-intensity cardio,58,male,23.2
+31.3,sedentary,extreme weight loss,21,female,22.8
+32.0,light,high-intensity cardio,31,female,22.0
+33.0,active,high-intensity cardio,63,male,24.5
+38.0,very active,extreme weight loss,44,female,23.2
+38.4,active,high-intensity cardio,44,male,23.2
+37.7,very active,aggressive weight loss,58,male,24.0
+37.1,moderate,high-intensity cardio,34,female,22.6
+30.7,sedentary,extreme weight loss,46,female,23.8
+37.3,light,extreme weight loss,25,female,19.6
+31.8,moderate,extreme weight loss,27,female,24.0
+35.1,moderate,high-intensity cardio,18,male,23.1
+39.5,very active,aggressive weight loss,54,male,19.4
+31.9,moderate,high-intensity cardio,25,female,24.7
+31.3,light,high-intensity cardio,59,female,19.2
+30.2,moderate,high-intensity cardio,52,male,19.7
+30.9,sedentary,aggressive weight loss,43,female,22.1
+39.3,light,aggressive weight loss,43,female,20.0
+39.2,moderate,aggressive weight loss,29,female,21.4
+38.7,moderate,aggressive weight loss,27,female,21.0
+30.2,sedentary,aggressive weight loss,53,male,23.1
+38.2,light,high-intensity cardio,29,female,24.8
+36.5,active,high-intensity cardio,32,female,22.4
+36.9,very active,aggressive weight loss,56,female,20.6
+34.2,moderate,high-intensity cardio,54,female,23.8
+31.9,sedentary,extreme weight loss,43,female,22.2
+31.0,sedentary,aggressive weight loss,62,female,23.8
+36.8,moderate,extreme weight loss,29,male,22.2
+32.7,sedentary,extreme weight loss,23,female,23.4
+30.8,very active,high-intensity cardio,21,male,22.3
+34.8,active,aggressive weight loss,40,male,19.7
+34.6,light,extreme weight loss,54,female,23.7
+33.0,light,high-intensity cardio,20,male,22.0
+34.8,very active,high-intensity cardio,42,female,23.8
+30.2,very active,extreme weight loss,49,male,24.0
+30.2,active,extreme weight loss,61,female,21.1
+35.6,active,aggressive weight loss,49,male,19.4
+32.8,very active,high-intensity cardio,30,male,24.5
+36.5,moderate,extreme weight loss,20,female,23.9
+40.0,very active,extreme weight loss,62,male,21.3
+37.3,active,aggressive weight loss,32,female,20.5
+33.9,moderate,high-intensity cardio,21,male,22.1
+36.8,very active,aggressive weight loss,46,male,20.1
+39.7,moderate,extreme weight loss,58,female,23.6
+39.7,light,extreme weight loss,39,female,21.6
+37.0,active,high-intensity cardio,53,male,24.9
+35.4,sedentary,extreme weight loss,58,male,23.9
+33.4,light,extreme weight loss,55,male,18.8
+33.8,active,high-intensity cardio,56,male,23.2
+31.4,sedentary,extreme weight loss,53,male,23.0
+30.2,light,extreme weight loss,18,female,19.9
+37.6,sedentary,aggressive weight loss,61,female,19.2
+30.8,light,aggressive weight loss,49,male,24.3
+38.5,light,high-intensity cardio,37,female,24.3
+37.1,active,high-intensity cardio,27,female,23.8
+34.8,light,aggressive weight loss,33,male,21.4
+39.5,sedentary,high-intensity cardio,56,male,22.0
+38.1,sedentary,high-intensity cardio,54,female,22.8
+33.4,very active,aggressive weight loss,58,male,21.6
+31.2,active,high-intensity cardio,46,female,19.0
+30.0,very active,extreme weight loss,48,male,21.7
+37.2,active,high-intensity cardio,47,male,20.8
+31.3,active,extreme weight loss,31,male,24.6
+31.1,very active,high-intensity cardio,64,male,20.1
+34.1,active,high-intensity cardio,41,female,18.8
+34.7,sedentary,aggressive weight loss,21,male,24.3
+35.1,very active,high-intensity cardio,57,male,19.3
+39.5,very active,high-intensity cardio,26,male,23.7
+39.4,very active,high-intensity cardio,23,female,19.3
+32.4,sedentary,high-intensity cardio,39,female,19.8
+39.3,light,high-intensity cardio,40,female,20.5
+38.2,light,high-intensity cardio,63,male,18.9
+34.6,sedentary,extreme weight loss,25,female,20.3
+30.8,sedentary,extreme weight loss,29,male,19.4
+36.2,sedentary,aggressive weight loss,49,female,21.6
+38.2,moderate,extreme weight loss,41,female,21.3
+31.0,active,aggressive weight loss,27,male,20.8
+35.8,light,aggressive weight loss,21,male,19.0
+36.1,light,high-intensity cardio,58,male,24.6
+33.8,active,high-intensity cardio,58,female,21.9
+37.8,moderate,aggressive weight loss,20,male,20.8
+30.3,moderate,aggressive weight loss,34,female,24.2
+30.4,moderate,aggressive weight loss,20,female,19.9
+33.6,light,extreme weight loss,48,male,19.0
+37.5,moderate,aggressive weight loss,55,female,20.3
+37.6,active,extreme weight loss,54,female,19.1
+32.9,active,aggressive weight loss,40,male,24.0
+31.7,moderate,high-intensity cardio,47,male,19.3
+31.3,light,high-intensity cardio,40,male,21.7
+33.3,active,extreme weight loss,40,male,20.9
+36.0,sedentary,extreme weight loss,51,female,24.0
+33.8,sedentary,high-intensity cardio,19,female,20.2
+35.2,active,extreme weight loss,45,male,23.4
+30.6,very active,high-intensity cardio,44,male,18.6
+35.6,moderate,extreme weight loss,56,female,20.2
+34.1,light,aggressive weight loss,36,female,23.0
+32.7,sedentary,aggressive weight loss,44,female,24.1
+34.4,moderate,aggressive weight loss,57,male,20.5
+31.6,sedentary,aggressive weight loss,49,female,24.2
+37.5,sedentary,aggressive weight loss,33,female,22.2
+33.3,light,aggressive weight loss,21,male,19.0
+30.7,moderate,high-intensity cardio,25,male,23.7
+34.5,light,high-intensity cardio,32,female,22.7
+30.2,light,extreme weight loss,51,female,18.6
+30.2,very active,aggressive weight loss,43,female,24.1
+36.8,sedentary,aggressive weight loss,37,female,20.4
+37.3,active,aggressive weight loss,37,female,22.8
+36.6,sedentary,aggressive weight loss,34,female,20.0
+39.9,moderate,aggressive weight loss,61,female,19.7
+32.3,light,aggressive weight loss,21,male,21.6
+31.8,very active,extreme weight loss,46,male,20.8
+31.6,moderate,extreme weight loss,40,male,23.1
+37.6,active,high-intensity cardio,19,male,21.3
+35.7,active,aggressive weight loss,55,male,19.9
+34.4,very active,aggressive weight loss,54,male,23.6
+33.4,light,extreme weight loss,35,female,24.5
+37.7,light,high-intensity cardio,24,male,24.4
+37.8,sedentary,extreme weight loss,49,male,19.1
+38.9,moderate,high-intensity cardio,52,female,22.8
+33.1,very active,extreme weight loss,32,female,24.7
+31.2,active,high-intensity cardio,23,female,21.9
+37.6,sedentary,extreme weight loss,49,male,24.3
+35.8,moderate,high-intensity cardio,46,female,24.8
+37.0,moderate,aggressive weight loss,54,female,23.1
+36.2,active,high-intensity cardio,18,male,23.8
+34.3,sedentary,extreme weight loss,58,female,22.6
+30.1,moderate,aggressive weight loss,40,male,21.5
+32.4,light,extreme weight loss,44,male,20.4
+33.5,sedentary,high-intensity cardio,26,male,21.3
+32.4,active,high-intensity cardio,45,male,21.4
+31.2,light,aggressive weight loss,30,male,18.9
+34.2,moderate,high-intensity cardio,29,female,23.0
+34.8,active,aggressive weight loss,38,male,21.3
+32.0,light,extreme weight loss,61,male,24.4
+38.7,active,high-intensity cardio,51,female,24.9
+38.2,sedentary,extreme weight loss,21,female,20.0
+33.0,sedentary,extreme weight loss,64,female,24.1
+35.9,sedentary,aggressive weight loss,49,female,21.8
+36.9,moderate,aggressive weight loss,53,female,21.3
+34.2,light,extreme weight loss,29,female,19.1
+31.9,active,high-intensity cardio,58,female,20.2
+31.0,very active,extreme weight loss,35,female,20.6
+31.3,moderate,aggressive weight loss,51,male,18.8
+38.5,active,aggressive weight loss,49,male,22.8
+39.1,very active,high-intensity cardio,40,male,24.7
+32.0,active,high-intensity cardio,61,female,22.0
+36.2,sedentary,aggressive weight loss,19,male,21.3
+33.9,moderate,aggressive weight loss,61,female,22.5
+34.5,very active,aggressive weight loss,26,female,24.4
+31.4,active,high-intensity cardio,25,female,18.5
+33.9,moderate,aggressive weight loss,26,male,22.3
+30.2,moderate,aggressive weight loss,32,female,18.7
+37.1,light,extreme weight loss,39,male,21.1
+35.4,moderate,aggressive weight loss,18,male,24.2
+30.8,sedentary,high-intensity cardio,59,female,19.2
+35.3,very active,high-intensity cardio,18,female,23.6
+38.2,sedentary,aggressive weight loss,60,male,19.9
+30.7,light,extreme weight loss,31,female,23.9
+34.0,very active,aggressive weight loss,61,male,22.2
+35.1,light,high-intensity cardio,28,female,22.8
+33.1,sedentary,high-intensity cardio,54,male,21.7
+30.5,active,high-intensity cardio,47,female,20.4
+32.1,very active,high-intensity cardio,49,male,19.8
+34.5,moderate,aggressive weight loss,20,male,23.1
+32.3,light,high-intensity cardio,56,female,19.2
+37.6,moderate,aggressive weight loss,53,female,23.3
+30.2,very active,high-intensity cardio,19,male,22.2
+36.5,light,high-intensity cardio,29,male,24.5
+39.8,sedentary,extreme weight loss,35,male,24.0
+34.2,moderate,aggressive weight loss,52,male,19.5
+38.8,light,aggressive weight loss,30,female,19.7
+30.3,sedentary,high-intensity cardio,41,female,22.3
+38.1,sedentary,aggressive weight loss,27,male,18.8
+35.5,moderate,aggressive weight loss,59,male,20.2
+37.4,very active,aggressive weight loss,28,female,24.0
+39.0,very active,extreme weight loss,35,male,18.8
+31.1,active,extreme weight loss,53,female,21.3
+33.0,sedentary,extreme weight loss,64,female,21.2
+32.7,sedentary,extreme weight loss,62,female,23.7
+34.7,moderate,extreme weight loss,28,female,23.6
+38.2,light,high-intensity cardio,60,male,19.5
+35.8,light,extreme weight loss,21,male,19.8
+32.7,moderate,extreme weight loss,60,male,19.2
+37.6,sedentary,extreme weight loss,20,male,22.4
+36.0,light,extreme weight loss,38,male,24.6
+34.7,light,aggressive weight loss,25,male,22.7
+37.4,very active,high-intensity cardio,24,male,22.9
+36.7,sedentary,high-intensity cardio,19,male,22.3
+37.8,light,extreme weight loss,50,male,23.9
+35.5,very active,aggressive weight loss,33,female,20.0
+30.0,light,extreme weight loss,56,female,21.4
+33.5,sedentary,extreme weight loss,30,female,22.4
+30.4,sedentary,high-intensity cardio,21,male,22.4
+38.9,light,aggressive weight loss,20,male,22.0
+39.2,active,aggressive weight loss,40,male,22.6
+35.9,sedentary,extreme weight loss,30,female,20.0
+38.5,very active,high-intensity cardio,54,female,24.3
+39.2,sedentary,aggressive weight loss,46,male,24.7
+37.6,very active,aggressive weight loss,19,male,18.9
+33.5,light,high-intensity cardio,26,female,20.0
+34.4,light,aggressive weight loss,47,male,21.6
+33.3,light,aggressive weight loss,20,male,19.6
+34.9,sedentary,aggressive weight loss,42,female,20.6
+33.6,moderate,aggressive weight loss,42,male,20.0
+30.3,very active,aggressive weight loss,19,female,22.4
+30.4,sedentary,aggressive weight loss,21,male,24.5
+31.1,sedentary,high-intensity cardio,57,male,18.7
+36.7,very active,aggressive weight loss,47,female,23.5
+36.9,active,high-intensity cardio,61,male,20.6
+39.8,light,high-intensity cardio,46,female,21.1
+30.7,light,aggressive weight loss,25,female,19.6
+39.2,very active,high-intensity cardio,60,female,19.0
+33.9,sedentary,high-intensity cardio,40,female,23.2
+34.9,active,extreme weight loss,45,male,24.8
+32.1,sedentary,extreme weight loss,63,male,22.3
+38.9,very active,aggressive weight loss,49,female,21.1
+32.1,sedentary,high-intensity cardio,35,male,24.8
+31.0,moderate,extreme weight loss,32,male,21.0
+36.3,light,high-intensity cardio,37,female,24.3
+39.6,very active,extreme weight loss,25,female,19.6
+36.8,very active,high-intensity cardio,22,male,20.7
+34.0,light,aggressive weight loss,25,male,21.4
+38.9,active,extreme weight loss,36,female,18.6
+37.0,very active,high-intensity cardio,50,female,22.7
+31.3,sedentary,high-intensity cardio,45,male,19.1
+31.9,moderate,high-intensity cardio,30,male,21.7
+33.5,sedentary,aggressive weight loss,50,female,23.9
+31.2,active,aggressive weight loss,28,male,18.5
+32.3,light,high-intensity cardio,48,female,22.0
+33.9,light,aggressive weight loss,25,female,21.6
+37.7,active,high-intensity cardio,26,female,20.7
+35.0,sedentary,aggressive weight loss,58,male,19.4
+37.7,very active,aggressive weight loss,52,male,24.6
+35.7,sedentary,high-intensity cardio,43,female,19.6
+38.6,very active,high-intensity cardio,56,female,22.9
+35.7,light,aggressive weight loss,45,male,21.7
+38.2,sedentary,extreme weight loss,60,male,24.1
+36.6,very active,high-intensity cardio,57,male,24.1
+30.0,very active,aggressive weight loss,52,male,20.2
+34.1,active,high-intensity cardio,36,male,20.2
+35.8,very active,high-intensity cardio,64,female,22.9
+32.1,light,aggressive weight loss,60,female,24.7
+35.7,very active,aggressive weight loss,46,male,23.5
+39.4,moderate,extreme weight loss,50,female,22.8
+34.6,light,extreme weight loss,28,female,22.3
+39.9,active,aggressive weight loss,27,male,18.8
+32.5,active,extreme weight loss,23,male,24.6
+38.3,very active,aggressive weight loss,48,female,22.4
+31.6,active,aggressive weight loss,37,female,22.2
+37.9,active,aggressive weight loss,49,male,21.5
+31.5,light,extreme weight loss,20,male,19.9
+31.7,moderate,extreme weight loss,24,female,23.4
+35.9,active,high-intensity cardio,42,female,20.7
+36.8,light,aggressive weight loss,36,female,20.4
+33.5,light,high-intensity cardio,39,female,19.9
+32.2,moderate,extreme weight loss,19,male,18.9
+38.4,light,high-intensity cardio,37,female,22.2
+33.4,active,extreme weight loss,42,female,19.4
+36.3,active,high-intensity cardio,60,female,23.8
+30.2,light,extreme weight loss,33,male,19.7
+32.2,very active,extreme weight loss,59,female,21.5
+33.7,moderate,aggressive weight loss,56,male,20.2
+34.3,light,aggressive weight loss,21,male,21.5
+30.5,moderate,high-intensity cardio,22,female,23.9
+30.2,very active,high-intensity cardio,47,male,22.3
+33.3,very active,extreme weight loss,44,female,24.6
+34.0,very active,aggressive weight loss,57,male,21.0
+38.5,very active,high-intensity cardio,22,female,18.8
+39.5,light,aggressive weight loss,30,male,19.9
+33.1,active,high-intensity cardio,25,female,21.5
+31.3,very active,high-intensity cardio,43,female,20.4
+36.3,very active,high-intensity cardio,44,female,22.2
+37.6,very active,aggressive weight loss,20,male,20.9
+33.9,light,extreme weight loss,22,male,23.5
+35.8,sedentary,high-intensity cardio,25,female,19.3
+33.1,very active,aggressive weight loss,28,male,21.7
+31.0,light,aggressive weight loss,54,female,22.2
+39.2,active,extreme weight loss,20,male,23.3
+32.6,moderate,aggressive weight loss,60,male,19.8
+38.8,very active,high-intensity cardio,43,female,22.6
+30.8,active,aggressive weight loss,20,female,18.7
+33.9,sedentary,high-intensity cardio,34,male,19.3
+39.0,active,high-intensity cardio,60,male,24.0
+30.3,sedentary,extreme weight loss,46,female,20.2
+30.8,sedentary,extreme weight loss,43,male,19.4
+39.4,light,extreme weight loss,26,female,19.8
+39.1,moderate,extreme weight loss,60,female,22.2
+30.6,active,aggressive weight loss,47,female,21.9
+37.2,very active,aggressive weight loss,26,female,23.7
+39.8,very active,extreme weight loss,30,male,20.2
+36.8,very active,extreme weight loss,49,female,19.0
+31.8,sedentary,high-intensity cardio,35,male,20.3
+38.4,light,high-intensity cardio,51,male,24.4
+37.2,very active,high-intensity cardio,46,female,24.1
+33.5,sedentary,aggressive weight loss,59,female,23.8
+31.0,sedentary,aggressive weight loss,21,female,19.0
+36.6,very active,aggressive weight loss,63,male,23.1
+31.3,very active,extreme weight loss,64,male,21.3
+39.2,moderate,extreme weight loss,32,female,22.6
+37.2,light,extreme weight loss,26,female,20.0
+31.2,very active,extreme weight loss,45,male,20.1
+37.3,light,aggressive weight loss,27,female,19.2
+31.4,light,high-intensity cardio,57,male,24.1
+34.6,light,high-intensity cardio,48,male,20.6
+31.2,moderate,aggressive weight loss,61,male,19.2
+30.8,very active,aggressive weight loss,22,female,23.9
+30.2,moderate,aggressive weight loss,20,female,18.7
+38.3,light,high-intensity cardio,41,male,22.1
+35.6,sedentary,high-intensity cardio,19,female,22.9
+35.7,very active,high-intensity cardio,22,male,23.2
+30.1,very active,aggressive weight loss,34,female,18.7
+32.5,active,aggressive weight loss,32,male,19.1
+38.1,moderate,high-intensity cardio,22,male,23.8
+37.9,light,aggressive weight loss,25,female,22.8
+33.3,moderate,aggressive weight loss,46,male,19.5
+36.1,moderate,aggressive weight loss,24,male,23.4
+31.6,sedentary,high-intensity cardio,20,male,23.8
+38.2,very active,extreme weight loss,59,male,20.7
+36.1,light,extreme weight loss,64,male,19.8
+31.4,very active,aggressive weight loss,32,male,20.1
+30.4,moderate,extreme weight loss,51,female,24.8
+39.8,very active,high-intensity cardio,50,male,19.5
+39.5,moderate,high-intensity cardio,24,female,23.8
+34.3,sedentary,aggressive weight loss,31,male,22.1
+37.7,moderate,aggressive weight loss,55,male,19.5
+34.8,very active,extreme weight loss,40,male,22.3
+34.0,moderate,high-intensity cardio,22,female,21.7
+39.6,moderate,extreme weight loss,49,male,21.2
+32.1,active,aggressive weight loss,32,female,20.4
+33.2,active,extreme weight loss,21,male,19.5
+31.0,moderate,extreme weight loss,62,male,24.6
+34.2,active,high-intensity cardio,31,female,22.1
+39.6,light,aggressive weight loss,32,male,21.4
+34.6,sedentary,aggressive weight loss,18,male,19.5
+38.8,sedentary,high-intensity cardio,64,male,19.0
+38.8,moderate,extreme weight loss,44,male,21.9
+32.2,very active,aggressive weight loss,43,male,20.6
+31.4,very active,aggressive weight loss,60,male,24.0
+35.8,moderate,aggressive weight loss,50,male,22.8
+30.8,very active,aggressive weight loss,37,female,24.6
+36.2,active,extreme weight loss,63,male,20.4
+37.9,sedentary,extreme weight loss,27,male,24.7
+33.1,moderate,aggressive weight loss,60,male,24.6
+35.2,active,high-intensity cardio,18,female,19.6
+34.0,very active,aggressive weight loss,32,male,20.6
+38.6,sedentary,high-intensity cardio,22,male,19.4
+35.7,active,aggressive weight loss,29,male,23.7
+40.0,light,high-intensity cardio,44,female,19.2
+33.8,very active,high-intensity cardio,62,female,21.9
+37.1,active,extreme weight loss,36,female,24.4
+35.2,sedentary,aggressive weight loss,63,female,22.5
+37.9,moderate,extreme weight loss,22,female,22.0
+30.6,active,aggressive weight loss,64,female,21.9
+30.2,active,aggressive weight loss,51,female,23.3
+35.8,very active,extreme weight loss,55,female,19.7
+36.2,moderate,high-intensity cardio,43,male,20.4
+39.7,active,extreme weight loss,58,male,24.2
+30.0,very active,extreme weight loss,37,female,18.7
+31.4,moderate,extreme weight loss,56,male,22.3
+39.5,very active,extreme weight loss,45,male,19.2
+39.8,sedentary,aggressive weight loss,21,male,23.0
+32.9,moderate,high-intensity cardio,57,female,24.4
+33.4,active,extreme weight loss,32,female,24.3
+30.2,moderate,extreme weight loss,31,male,24.3
+39.2,moderate,extreme weight loss,21,female,24.5
+33.7,light,high-intensity cardio,37,female,18.8
+31.9,moderate,high-intensity cardio,42,female,20.0
+39.9,very active,high-intensity cardio,21,female,23.2
+31.8,sedentary,extreme weight loss,36,male,24.6
+35.4,very active,extreme weight loss,48,female,21.2
+37.5,active,extreme weight loss,28,female,22.1
+34.3,light,extreme weight loss,40,male,20.1
+36.8,sedentary,aggressive weight loss,48,male,20.2
+36.7,active,extreme weight loss,50,female,21.9
+34.3,very active,high-intensity cardio,18,male,22.6
+38.3,very active,extreme weight loss,57,male,19.5
+33.3,moderate,high-intensity cardio,56,male,19.4
+38.2,light,high-intensity cardio,30,female,20.3
+37.1,very active,extreme weight loss,32,male,24.7
+30.9,very active,aggressive weight loss,34,female,20.9
+38.6,active,extreme weight loss,53,male,19.7
+36.3,light,high-intensity cardio,47,female,23.7
+39.4,moderate,extreme weight loss,45,female,20.2
+37.0,moderate,extreme weight loss,20,female,20.0
+39.7,sedentary,high-intensity cardio,45,female,22.9
+33.6,active,high-intensity cardio,62,male,19.6
+40.0,very active,high-intensity cardio,62,female,19.6
+34.3,very active,high-intensity cardio,49,male,23.8
+36.3,moderate,high-intensity cardio,24,male,21.0
+31.7,very active,extreme weight loss,20,female,19.9
+34.4,very active,aggressive weight loss,31,female,22.2
+36.5,light,high-intensity cardio,19,male,22.9
+35.5,active,extreme weight loss,32,female,19.2
+33.9,very active,extreme weight loss,43,female,24.4
+36.1,sedentary,extreme weight loss,21,female,21.1
+33.5,moderate,aggressive weight loss,25,male,23.7
+34.7,moderate,high-intensity cardio,51,female,20.7
+31.6,sedentary,high-intensity cardio,52,female,20.9
+33.0,light,extreme weight loss,44,female,21.3
+35.3,active,aggressive weight loss,57,male,20.2
+32.1,very active,high-intensity cardio,43,female,22.0
+31.9,very active,extreme weight loss,47,male,22.1
+34.3,sedentary,extreme weight loss,46,female,21.0
+33.9,very active,aggressive weight loss,61,female,22.5
+30.9,sedentary,extreme weight loss,62,male,18.8
+33.4,sedentary,high-intensity cardio,45,female,18.9
+39.9,moderate,aggressive weight loss,55,female,21.3
+34.0,sedentary,aggressive weight loss,33,female,23.8
+39.7,moderate,aggressive weight loss,34,male,19.5
+35.8,sedentary,high-intensity cardio,43,male,19.1
+39.2,moderate,high-intensity cardio,31,male,22.5
+30.9,sedentary,aggressive weight loss,29,female,19.9
+30.3,active,aggressive weight loss,36,female,21.5
+38.4,active,aggressive weight loss,25,female,20.8
+37.8,active,high-intensity cardio,50,female,24.2
+35.7,light,high-intensity cardio,37,female,20.1
+36.0,sedentary,high-intensity cardio,59,female,19.4
+39.3,very active,extreme weight loss,29,male,20.0
+39.4,sedentary,extreme weight loss,57,male,21.9
+36.7,sedentary,extreme weight loss,44,male,20.7
+37.3,moderate,high-intensity cardio,35,female,21.3
+39.0,light,high-intensity cardio,26,female,23.9
+34.1,light,aggressive weight loss,21,male,19.7
+32.5,moderate,aggressive weight loss,27,female,22.9
+39.9,light,aggressive weight loss,64,female,21.3
+34.2,moderate,extreme weight loss,53,female,23.9
+34.2,moderate,aggressive weight loss,30,male,24.0
+36.2,very active,extreme weight loss,25,female,20.0
+30.2,sedentary,extreme weight loss,51,female,22.1
+39.4,light,extreme weight loss,58,male,23.8
+39.1,light,aggressive weight loss,27,male,20.9
+36.5,sedentary,aggressive weight loss,64,female,22.8
+36.3,light,aggressive weight loss,60,female,22.0
+35.1,very active,aggressive weight loss,21,male,20.5
+35.0,light,aggressive weight loss,62,female,19.2
+35.7,sedentary,high-intensity cardio,42,female,22.9
+34.5,moderate,extreme weight loss,20,male,22.7
+33.0,very active,high-intensity cardio,36,female,20.6
+30.4,very active,extreme weight loss,30,female,19.7
+37.8,very active,extreme weight loss,28,male,24.4
+30.4,active,extreme weight loss,57,male,20.5
+35.5,sedentary,extreme weight loss,31,female,20.4
+34.5,very active,aggressive weight loss,48,male,24.5
+37.2,light,high-intensity cardio,49,female,18.7
+32.6,active,extreme weight loss,19,female,20.9
+33.2,very active,extreme weight loss,57,female,22.5
+34.8,active,extreme weight loss,58,female,24.0
+38.6,sedentary,aggressive weight loss,40,female,20.0
+38.1,sedentary,extreme weight loss,35,female,24.5
+37.3,active,aggressive weight loss,30,female,21.3
+38.8,very active,extreme weight loss,51,male,23.0
+33.3,sedentary,aggressive weight loss,29,male,20.0
+35.5,sedentary,extreme weight loss,29,male,23.4
+32.8,active,high-intensity cardio,18,female,22.4
+35.7,sedentary,high-intensity cardio,55,female,22.9
+33.5,light,extreme weight loss,53,male,24.6
+37.0,very active,extreme weight loss,22,female,19.8
+34.8,very active,aggressive weight loss,19,male,20.5
+36.9,very active,extreme weight loss,30,female,24.1
+37.7,sedentary,extreme weight loss,39,female,20.2
+39.4,very active,aggressive weight loss,39,female,20.4
+39.6,light,extreme weight loss,47,female,20.6
+34.4,light,aggressive weight loss,44,male,20.9
+37.5,very active,extreme weight loss,31,male,20.0
+38.3,active,high-intensity cardio,60,female,19.7
+36.2,moderate,aggressive weight loss,57,female,18.9
+39.8,moderate,high-intensity cardio,31,male,19.7
+36.6,light,aggressive weight loss,51,female,22.2
+35.3,active,aggressive weight loss,56,female,21.5
+34.7,sedentary,extreme weight loss,23,female,18.7
+38.6,moderate,extreme weight loss,23,female,22.9
+35.8,moderate,extreme weight loss,36,male,19.2
+38.6,sedentary,aggressive weight loss,24,male,19.6
+30.3,light,aggressive weight loss,32,female,21.1
+37.0,sedentary,high-intensity cardio,21,female,20.1
+31.2,light,extreme weight loss,44,female,24.5
+33.3,light,high-intensity cardio,44,male,22.3
+31.6,sedentary,high-intensity cardio,44,female,19.8
+39.4,active,high-intensity cardio,33,male,24.7
+40.0,very active,aggressive weight loss,56,female,24.5
+31.2,active,high-intensity cardio,29,female,24.1
+39.2,active,high-intensity cardio,59,male,21.1
+34.6,light,high-intensity cardio,64,male,20.1
+38.3,sedentary,extreme weight loss,33,female,20.4
+39.2,light,high-intensity cardio,54,female,22.7
+35.5,moderate,extreme weight loss,54,male,24.0
+37.0,sedentary,high-intensity cardio,54,female,23.2
+36.0,active,extreme weight loss,37,male,22.5
+33.6,light,high-intensity cardio,24,male,22.3
+32.3,active,extreme weight loss,28,female,21.4
+31.5,moderate,high-intensity cardio,28,female,18.7
+35.4,moderate,high-intensity cardio,19,female,23.5
+34.0,very active,high-intensity cardio,63,female,22.6
+37.7,light,aggressive weight loss,37,female,24.7
+39.1,moderate,high-intensity cardio,55,female,19.5
+38.2,sedentary,aggressive weight loss,37,female,24.7
+36.8,very active,high-intensity cardio,27,male,22.4
+36.4,sedentary,extreme weight loss,34,male,22.1
+30.2,very active,high-intensity cardio,19,male,19.4
+34.2,very active,high-intensity cardio,38,female,22.1
+34.9,active,aggressive weight loss,38,female,23.3
+32.5,sedentary,high-intensity cardio,59,female,19.2
+35.9,light,high-intensity cardio,25,female,24.1
+35.6,active,aggressive weight loss,33,female,18.6
+32.6,moderate,aggressive weight loss,62,male,19.9
+34.5,active,extreme weight loss,19,female,21.7
+36.4,active,aggressive weight loss,27,male,21.8
+35.6,active,aggressive weight loss,46,female,22.3
+32.0,moderate,high-intensity cardio,62,female,19.0
+36.9,moderate,extreme weight loss,43,male,21.5
+30.7,very active,extreme weight loss,24,male,23.3
+39.0,light,extreme weight loss,63,female,24.4
+33.7,sedentary,high-intensity cardio,43,female,24.2
+39.4,moderate,high-intensity cardio,35,male,23.9
+37.9,very active,high-intensity cardio,25,female,19.6
+38.6,sedentary,extreme weight loss,64,female,21.4
+35.7,sedentary,aggressive weight loss,48,male,21.5
+31.3,very active,aggressive weight loss,28,male,24.6
+35.8,light,high-intensity cardio,32,male,23.3
+39.8,moderate,extreme weight loss,64,female,21.7
+33.1,moderate,extreme weight loss,25,male,20.5
+37.9,light,extreme weight loss,49,male,20.5
+32.2,active,aggressive weight loss,63,female,19.9
+39.9,sedentary,aggressive weight loss,63,male,23.7
+32.5,light,aggressive weight loss,21,male,19.8
+38.3,light,high-intensity cardio,51,male,19.5
+30.8,sedentary,high-intensity cardio,49,male,22.7
+33.2,very active,high-intensity cardio,35,female,24.9
+32.8,sedentary,high-intensity cardio,59,male,20.1
+39.5,moderate,extreme weight loss,56,male,19.0
+30.1,sedentary,extreme weight loss,34,male,21.6
+37.9,very active,extreme weight loss,22,female,21.6
+31.9,active,extreme weight loss,59,male,22.1
+38.0,light,aggressive weight loss,34,female,24.1
+35.7,light,high-intensity cardio,52,female,23.6
+30.1,light,extreme weight loss,56,male,20.8
+24.24,very active,weight maintenance,20,male,21.65
+24.24,very active,lean muscle gain,20,male,22.28
+24.24,very active,weight maintenance,20,male,21.68
+27.0,moderate,fitness,18,male,21.78
+29.4,active,lean muscle gain,36,male,21.3
+29.4,active,lean muscle gain,36,male,21.03
+27.46,moderate,lean muscle gain,28,male,22.22
+24.34,moderate,lean muscle gain,28,male,21.97
+28.41,active,lean muscle gain,27,female,21.46
+31.17,sedentary,lean muscle gain,19,male,21.87

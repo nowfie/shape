@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Razorpay Payment</title>
+    <script src="https://checkout.razorpay.com/v1/checkout.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .container {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        h2 {
+            color: #333;
+        }
+        label {
+            display: block;
+            margin-bottom: 10px;
+            font-weight: bold;
+        }
+        select, button {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 20px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        button {
+            background-color: #3399cc;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #287ba8;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Pay with Razorpay</h2>
+        
+        <!-- User Selection -->
+        <label for="user_id">Select User:</label>
+        <select id="user_id">
+            {% for user in users %}
+                <option value="{{ user.id }}">{{ user.username }}</option>
+            {% endfor %}
+        </select>
+
+        <!-- Membership Plan Selection -->
+        <label for="membership_id">Select Membership Plan:</label>
+        <select id="membership_id">
+            {% for plan in membership_plans %}
+                <option value="{{ plan.id }}" data-price="{{ plan.price }}">{{ plan.plan_name }} - ₹{{ plan.price }}</option>
+            {% endfor %}
+        </select>
+
+        <button id="pay-button">Pay Now</button>
+    </div>
+
+    <script>
+        // Function to get CSRF token from Django cookie
+        function getCSRFToken() {
+            let cookieValue = null;
+            const cookies = document.cookie.split(';');
+            for (let i = 0; i < cookies.length; i++) {
+                const cookie = cookies[i].trim();
+                if (cookie.startsWith('csrftoken=')) {
+                    cookieValue = cookie.substring('csrftoken='.length, cookie.length);
+                    break;
+                }
+            }
+            return cookieValue;
+        }
+    
+        document.getElementById("pay-button").onclick = async function () {
+            const user_id = document.getElementById("user_id").value;
+            const membershipSelect = document.getElementById("membership_id");
+            const membership_id = membershipSelect.value;
+            const price = membershipSelect.options[membershipSelect.selectedIndex].getAttribute('data-price');
+    
+            if (!user_id || !membership_id) {
+                alert("Please select a user and a membership plan.");
+                return;
+            }
+    
+            // Get CSRF Token
+            const csrftoken = getCSRFToken();
+    
+            // Create Order
+            const response = await fetch("/create-order/", {
+                method: "POST",
+                headers: { 
+                    "Content-Type": "application/json",
+                    "X-CSRFToken": csrftoken  // Add CSRF token here
+                },
+                body: JSON.stringify({ user_id, membership_id })
+            });
+    
+            const order = await response.json();
+            if (order.error) {
+                alert("Error: " + order.error);
+                return;
+            }
+    
+            var options = {
+                "key": "{{ razorpay_key }}",
+                "amount": order.amount, 
+                "currency": order.currency,
+                "name": "Test Payment",
+                "description": "Django Razorpay Integration",
+                "order_id": order.id,
+                "handler": async function (response) {
+                    const verifyResponse = await fetch("/verify-payment/", {
+                        method: "POST",
+                        headers: { 
+                            "Content-Type": "application/json",
+                            "X-CSRFToken": csrftoken  // Add CSRF token for verification
+                        },
+                        body: JSON.stringify({
+                            razorpay_payment_id: response.razorpay_payment_id,
+                            razorpay_order_id: response.razorpay_order_id,
+                            razorpay_signature: response.razorpay_signature
+                        })
+                    });
+    
+                    const verifyData = await verifyResponse.json();
+                    if (verifyData.message) {
+                        alert("Payment Successful!");
+                    } else {
+                        alert("Payment Verification Failed!");
+                    }
+                },
+                "theme": { "color": "#3399cc" }
+            };
+            var rzp1 = new Razorpay(options);
+            rzp1.open();
+        };
+    </script>
+    
+</body>
+</html>
